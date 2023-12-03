@@ -261,7 +261,7 @@ for key, value in final_blip_output.items():
         'answers_blip': value['answers_blip']
     }
 
-file_path = "modified_data"+split_start+"_"+split_end+".json"
+file_path = "modified_data"+str(split_start)+"_"+str(split_end)+".json"
 
 with open(local_path+file_path, 'w') as json_file:
     json.dump(modified_data, json_file, indent=4)
