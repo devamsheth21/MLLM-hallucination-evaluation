@@ -103,7 +103,7 @@ score_aggregator = []
 #    with open(local_path+"score_"+str(split_start+(i*1000))+"_"+str(split_end+(i*1000)), "rb") as fp:   # Unpickling
 #        score_aggregator += pickle.load(fp)
 
-with open(local_path+"score_k", "rb") as fp:   # Unpickling
+with open(local_path+"score_10k", "rb") as fp:   # Unpickling
     score_aggregator += pickle.load(fp)
 
 # with open(local_path+"score_"+str(6000)+"_"+str(10000), "rb") as fp:   # Unpickling
@@ -127,7 +127,7 @@ images = []
 
 # for index in range(len(my_1k_data['image'])):
 for index,data in enumerate(dataset):
-    s = score_aggregator[index]
+    s = score_aggregator[split_start:split_end][index]
     images.append(data['image'])
     if s<= upperbound and s>=lowerbound:
         sequences = pipeline(

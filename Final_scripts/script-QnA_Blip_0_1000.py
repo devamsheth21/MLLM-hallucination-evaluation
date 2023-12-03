@@ -127,7 +127,7 @@ images = []
 
 # for index in range(len(my_1k_data['image'])):
 for index,data in enumerate(dataset):
-    s = score_aggregator[index]
+    s = score_aggregator[split_start:split_end][index]
     images.append(data['image'])
     if s<= upperbound and s>=lowerbound:
         sequences = pipeline(

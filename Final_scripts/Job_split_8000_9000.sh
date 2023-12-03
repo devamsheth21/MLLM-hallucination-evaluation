@@ -2,7 +2,7 @@
 
 #SBATCH -N 1            # number of nodes
 #SBATCH -c 8            # number of cores
-#SBATCH --mem 64        # amount of memory
+#SBATCH --mem=64        # amount of memory
 #SBATCH -G a100:1      # GPU
 #SBATCH -t 1-00:00:00   # time in d-hh:mm:ss
 #SBATCH -p general      # partition 
