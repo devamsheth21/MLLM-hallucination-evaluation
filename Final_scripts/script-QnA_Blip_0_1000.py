@@ -122,14 +122,14 @@ final_output = {}
 dataset = load_dataset('poloclub/diffusiondb', '2m_first_10k', split="train", streaming=True)
 dataset = dataset.skip(split_start)
 
-images = []
+images = {}
 # prompts = dataset['prompt']
 
 # for index in range(len(my_1k_data['image'])):
 for index,data in enumerate(dataset):
     s = score_aggregator[split_start:split_end][index]
-    images.append(data['image'])
     if s<= upperbound and s>=lowerbound:
+        images[str(index+split_start)] = data['image']
         sequences = pipeline(
             samp + data['prompt'] + "Question-Answer pair to be generated:",
             do_sample=False,
@@ -175,7 +175,7 @@ file_path = "QA_data"+str(split_start)+"_"+str(split_end)+".json"
 with open(local_path+file_path, 'w') as json_file:
     json.dump(final_output, json_file, indent=4)
 
-print(f"The modified data has been saved to {file_path}")
+print(f"The QnA data has been saved to {file_path}")
 
 #transfor id to select transformation of format "<Transform type><Transform Amount>" based on above id_prefixes, id_suffixes in image_augmenter()
 transform_id = 'blur5'
@@ -187,7 +187,7 @@ final_blip_output = {}
 ### This is single question code
 ### working
 for key, value in final_output.items():
-    image = images[int(key)]
+    image = images[key]
     # display(image)
     questions = value['qa_pairs'].keys()
     # print(questions)
@@ -251,11 +251,11 @@ for key, value in final_output.items():
     
     # Here we have finished processing 1000 images and their augmentations and put them in final_output
     # Print the updated final_output
-    print(final_output)
+    print(final_blip_output)
 
 modified_data = {}
 
-for key, value in final_output.items():
+for key, value in final_blip_output.items():
     modified_data[key] = {
         'qa_pairs': value['qa_pairs'],
         'answers_blip': value['answers_blip']
