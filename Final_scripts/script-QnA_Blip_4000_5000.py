@@ -122,14 +122,16 @@ final_output = {}
 dataset = load_dataset('poloclub/diffusiondb', '2m_first_10k', split="train", streaming=True)
 dataset = dataset.skip(split_start)
 
-images = dataset['image']
-prompts = dataset['prompt']
+images = []
+# prompts = dataset['prompt']
 
 # for index in range(len(my_1k_data['image'])):
-for index,s in enumerate(score_aggregator[split_start:split_end]):
+for index,data in enumerate(dataset):
+    s = score_aggregator[index]
+    images.append(data['image'])
     if s<= upperbound and s>=lowerbound:
         sequences = pipeline(
-            samp + prompts[index] + "Question-Answer pair to be generated:",
+            samp + data['prompt'] + "Question-Answer pair to be generated:",
             do_sample=False,
             top_k=50,
             num_return_sequences=1,
@@ -160,7 +162,7 @@ for index,s in enumerate(score_aggregator[split_start:split_end]):
         #Actual index of the image in the dataset is index+split_start
         final_output[str(index+split_start)] = {
             # 'image': images[index],
-            'prompt': prompts[index],
+            'prompt': data['prompt'],
             # 'qa_pairs': qa_list
             'qa_pairs': qa_dict
             
@@ -168,7 +170,7 @@ for index,s in enumerate(score_aggregator[split_start:split_end]):
 
 print(final_output)
 
-file_path = "QA_data"+split_start+"_"+split_end+".json"
+file_path = "QA_data"+str(split_start)+"_"+str(split_end)+".json"
 
 with open(local_path+file_path, 'w') as json_file:
     json.dump(final_output, json_file, indent=4)
