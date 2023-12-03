@@ -127,6 +127,8 @@ images = {}
 
 # for index in range(len(my_1k_data['image'])):
 for index,data in enumerate(dataset):
+    if index >= (split_end-split_start):
+        break
     s = score_aggregator[split_start:split_end][index]
     if s<= upperbound and s>=lowerbound:
         images[str(index+split_start)] = data['image']
