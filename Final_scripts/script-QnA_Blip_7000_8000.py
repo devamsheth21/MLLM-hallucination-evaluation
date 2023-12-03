@@ -180,6 +180,8 @@ transform_id = 'blur5'
 
 image_transform = image_augmenter(transform_id)
 
+final_blip_output = {}
+
 ### This is single question code
 ### working
 for key, value in final_output.items():
@@ -187,6 +189,7 @@ for key, value in final_output.items():
     # display(image)
     questions = value['qa_pairs'].keys()
     # print(questions)
+    final_blip_output[key] = value
 
     # Loop over each question for the current image
     for question in questions:
@@ -211,15 +214,15 @@ for key, value in final_output.items():
         print(generated_text)
 
         
-        if 'answers_blip' not in value:
-            value['answers_blip'] = {}
-        value['answers_blip'][question] = generated_text
+        if 'answers_blip' not in final_blip_output[key]:
+            final_blip_output[key]['answers_blip'] = {}
+        final_blip_output[key]['answers_blip'][question] = generated_text
 
     image_data = np.array(image)
     image_BGR = cv2.cvtColor(image_data, cv2.COLOR_RGB2BGR)
     augmented_image = image_transform(image=image_BGR)['image']
     augment_index = key + transform_id
-    final_output[augment_index] = value
+    final_blip_output[augment_index] = final_blip_output[key]
 
     # Loop over each question for the augmented image
     for question in questions:
@@ -242,7 +245,7 @@ for key, value in final_output.items():
 
         generated_text = processor.batch_decode(outputs, skip_special_tokens=True)[0].strip()
         print(generated_text)
-        final_output[augment_index]['answers_blip'][question] = generated_text
+        final_blip_output[augment_index]['answers_blip'][question] = generated_text
     
     # Here we have finished processing 1000 images and their augmentations and put them in final_output
     # Print the updated final_output
