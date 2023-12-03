@@ -165,7 +165,6 @@ for index,s in enumerate(score_aggregator[split_start:split_end]):
             'qa_pairs': qa_dict
             
         }
-        break
 
 print(final_output)
 
@@ -227,7 +226,7 @@ for key, value in final_output.items():
         string = question
         print(string)
         # prompt = "answer this question about the image: "
-        inputs = processor(images=Image.fromarray(image), text=string, return_tensors="pt")
+        inputs = processor(images=Image.fromarray(augmented_image), text=string, return_tensors="pt")
 
         outputs = model.generate(
             **inputs,
