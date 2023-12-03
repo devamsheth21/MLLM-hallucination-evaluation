@@ -4,7 +4,7 @@
 #SBATCH -c 8            # number of cores
 #SBATCH --mem 64        # amount of memory
 #SBATCH -G a100:1      # GPU
-#SBATCH -t 0-01:00:00   # time in d-hh:mm:ss
+#SBATCH -t 1-00:00:00   # time in d-hh:mm:ss
 #SBATCH -p general      # partition 
 #SBATCH -q public       # QOS
 #SBATCH -o slurm.%j.out # file to save job's STDOUT (%j = JobId)
@@ -17,4 +17,4 @@ module load mamba/latest
 # Using python, so source activate an appropriate environment
 source activate FullPipeline1
 
-python /scratch/ajoshi72/script-QnA_Blip_2000_3000
+python /scratch/ajoshi72/script-QnA_Blip_2000_3000.py
