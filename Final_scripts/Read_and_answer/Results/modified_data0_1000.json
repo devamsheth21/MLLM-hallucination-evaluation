@@ -1,0 +1,826 @@
+{
+    "1": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired the artist."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a woman dressed in blue and adorned with intricate jewelry and headdresses."
+        }
+    },
+    "1blur5": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired the artist."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a woman dressed in blue and adorned with intricate jewelry and headdresses."
+        }
+    },
+    "3": {
+        "qa_pairs": {
+            "What is the object?": "The object is a cyber war machine scene in Area 51.",
+            "Who is the painter?": "Destiny Womack is the painter.",
+            "What is the medium used?": "Airbrush is the medium used.",
+            "What is the scene depicted?": "The scene depicted is a cyber war machine scene in Area 51.",
+            "What is the mood of the painting?": "The mood of the painting is intense and action-packed.",
+            "What are the colors used in the painting?": "The painting predominantly features dark colors with some neon hues to depict the futuristic theme."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a painting of a futuristic city with flying ships in the sky."
+        }
+    },
+    "3blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a cyber war machine scene in Area 51.",
+            "Who is the painter?": "Destiny Womack is the painter.",
+            "What is the medium used?": "Airbrush is the medium used.",
+            "What is the scene depicted?": "The scene depicted is a cyber war machine scene in Area 51.",
+            "What is the mood of the painting?": "The mood of the painting is intense and action-packed.",
+            "What are the colors used in the painting?": "The painting predominantly features dark colors with some neon hues to depict the futuristic theme."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a painting of a futuristic city with flying ships in the sky."
+        }
+    },
+    "4": {
+        "qa_pairs": {
+            "What is the object?": "The object is a monster from the game Silent Hill.",
+            "What is the painting style?": "The painting style is realistic."
+        },
+        "answers_blip": {
+            "What is the object?": "There is no object in the picture."
+        }
+    },
+    "4blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a monster from the game Silent Hill.",
+            "What is the painting style?": "The painting style is realistic."
+        },
+        "answers_blip": {
+            "What is the object?": "There is no object in the picture."
+        }
+    },
+    "5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne Johnson",
+            "What is the style of the painting?": "The painting is in the style of Rembrandt",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas",
+            "What is the technique used in the painting?": "The technique used in the painting is wet-on-wet",
+            "What is the level of realism in the painting?": "The level of realism in the painting is highly realistic",
+            "What is the lighting effect in the painting?": "The lighting effect in the painting is cinematic lightning",
+            "What are the textures like in the painting?": "The textures in the painting are intricate",
+            "What is the level of detail in the painting?": "The level of detail in the painting is highly intricate and illusionistic."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne \"The Rock\" Johnson."
+        }
+    },
+    "5blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne Johnson",
+            "What is the style of the painting?": "The painting is in the style of Rembrandt",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas",
+            "What is the technique used in the painting?": "The technique used in the painting is wet-on-wet",
+            "What is the level of realism in the painting?": "The level of realism in the painting is highly realistic",
+            "What is the lighting effect in the painting?": "The lighting effect in the painting is cinematic lightning",
+            "What are the textures like in the painting?": "The textures in the painting are intricate",
+            "What is the level of detail in the painting?": "The level of detail in the painting is highly intricate and illusionistic."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne \"The Rock\" Johnson."
+        }
+    },
+    "6": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired James Jean."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a blue-skinned woman wearing a headdress."
+        }
+    },
+    "6blur5": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired James Jean."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a blue-skinned woman wearing a headdress."
+        }
+    },
+    "7": {
+        "qa_pairs": {
+            "What is the object?": "The object is a cigarette.",
+            "What is the tobacco color?": "The tobacco is purple",
+            "What is the shape of the cigarette?": "The cigarette is slender and tapered",
+            "What is the material of the cigarette?": "The cigarette is made of tobacco",
+            "Who is the manufacturer of the cigarette?": "The cigarette is handmade by a small tobacco farmer."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a collection of purple and white cigarettes."
+        }
+    },
+    "7blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a cigarette.",
+            "What is the tobacco color?": "The tobacco is purple",
+            "What is the shape of the cigarette?": "The cigarette is slender and tapered",
+            "What is the material of the cigarette?": "The cigarette is made of tobacco",
+            "Who is the manufacturer of the cigarette?": "The cigarette is handmade by a small tobacco farmer."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a collection of purple and white cigarettes."
+        }
+    },
+    "10": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired James Jean."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a woman."
+        }
+    },
+    "10blur5": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired James Jean."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a woman."
+        }
+    },
+    "11": {
+        "qa_pairs": {
+            "What is the object?": "The object is a 3D model of a mech piloted by Matsuragi.",
+            "What is the material of the mech?": "The mech is made of liquid, bubbles, crystals, and mangroves.",
+            "What software is used to create the model?": "Houdini and SideFX are used to create the model.",
+            "What is the render quality of the model?": "The render quality is perfect.",
+            "Who are the artists involved in creating the model?": "Jeremy Mann, Tsutomi Nihei, and Ilya Kuvshinov are the artists involved in creating the model."
+        },
+        "answers_blip": {
+            "What is the object?": "The object in the picture is a naked woman with purple hair."
+        }
+    },
+    "11blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a 3D model of a mech piloted by Matsuragi.",
+            "What is the material of the mech?": "The mech is made of liquid, bubbles, crystals, and mangroves.",
+            "What software is used to create the model?": "Houdini and SideFX are used to create the model.",
+            "What is the render quality of the model?": "The render quality is perfect.",
+            "Who are the artists involved in creating the model?": "Jeremy Mann, Tsutomi Nihei, and Ilya Kuvshinov are the artists involved in creating the model."
+        },
+        "answers_blip": {
+            "What is the object?": "The object in the picture is a naked woman with purple hair."
+        }
+    },
+    "12": {
+        "qa_pairs": {
+            "What is the object?": "The object is Conor McGregor as a Muppet",
+            "What is the setting of the image?": "The image is a movie still",
+            "What is the resolution of the image?": "The image is in 4K",
+            "Who is the creator of the image?": "The creator of the image is a talented photographer or artist."
+        },
+        "answers_blip": {
+            "What is the object?": "The object in the picture is a puppet with a purple suit and a green tie."
+        }
+    },
+    "12blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is Conor McGregor as a Muppet",
+            "What is the setting of the image?": "The image is a movie still",
+            "What is the resolution of the image?": "The image is in 4K",
+            "Who is the creator of the image?": "The creator of the image is a talented photographer or artist."
+        },
+        "answers_blip": {
+            "What is the object?": "The object in the picture is a puppet with a purple suit and a green tie."
+        }
+    },
+    "13": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired James Jean."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a woman wearing a Native American headdress."
+        }
+    },
+    "13blur5": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject is a portrait of a dancing eagle woman.",
+            "Who is the artist?": "James Jean is the artist.",
+            "What is the medium used in the artwork?": "Digital painting is used in the artwork.",
+            "What is the level of detail in the artwork?": "The level of detail is highly detailed.",
+            "What is the focus of the artwork?": "The focus is smooth and sharp.",
+            "What is the style of the artwork?": "The style is illustration.",
+            "Who are some of the artists that have inspired the artist?": "Artists such as Alphonse Mucha, Vladimir Kush, and H.R. Giger have inspired James Jean."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a woman wearing a Native American headdress."
+        }
+    },
+    "21": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is pyramids on the moon",
+            "What is the style of the painting?": "The style of the painting is in the style of CG art",
+            "What is the rendering technique used?": "The rendering technique used is ray tracing"
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is two astronauts standing in front of pyramids on a desert planet."
+        }
+    },
+    "21blur5": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is pyramids on the moon",
+            "What is the style of the painting?": "The style of the painting is in the style of CG art",
+            "What is the rendering technique used?": "The rendering technique used is ray tracing"
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is two astronauts standing in front of pyramids on a desert planet."
+        }
+    },
+    "23": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne Johnson and Mr. Bean.",
+            "What is the style of the painting?": "The painting is in the style of Rembrandt.",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas.",
+            "What is the technique used in the painting?": "The technique used in the painting is wet-on-wet.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is highly realistic.",
+            "How is the lighting in the painting?": "The lighting in the painting is cinematic.",
+            "What are the textures like in the painting?": "The textures in the painting are intricate.",
+            "What is the level of illusionistic detail in the painting?": "The level of illusionistic detail in the painting is high."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a blue-skinned man."
+        }
+    },
+    "23blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne Johnson and Mr. Bean.",
+            "What is the style of the painting?": "The painting is in the style of Rembrandt.",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas.",
+            "What is the technique used in the painting?": "The technique used in the painting is wet-on-wet.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is highly realistic.",
+            "How is the lighting in the painting?": "The lighting in the painting is cinematic.",
+            "What are the textures like in the painting?": "The textures in the painting are intricate.",
+            "What is the level of illusionistic detail in the painting?": "The level of illusionistic detail in the painting is high."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a blue-skinned man."
+        }
+    },
+    "24": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a flat earth conspiracy theory",
+            "What is the style of the artwork?": "The style of the artwork is highly detailed and hyperrealistic",
+            "Who are the artists associated with this artwork?": "Katsuhiro Otomo, Tex Avery, Otto Dix, and Jan Svankmejer",
+            "What is the medium used to create the artwork?": "The medium used to create the artwork is claymation."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a futuristic city."
+        }
+    },
+    "24blur5": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a flat earth conspiracy theory",
+            "What is the style of the artwork?": "The style of the artwork is highly detailed and hyperrealistic",
+            "Who are the artists associated with this artwork?": "Katsuhiro Otomo, Tex Avery, Otto Dix, and Jan Svankmejer",
+            "What is the medium used to create the artwork?": "The medium used to create the artwork is claymation."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a futuristic city."
+        }
+    },
+    "25": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a pyramid on the moon",
+            "What is the style of the painting?": "The style of the painting is CG art",
+            "Who are the artists involved in creating this painting?": "Nekro, Pascal Blanche, Syd Mead, Greg Rutkowski, Sachin Teng, Victo Ngai, Simon Stalenhag, Chris Voy, and Tsutomu Nihei are the artists involved in creating this painting",
+            "What software did the artists use to create this painting?": "The artists used Maya and Octane Render to create this painting.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is hyper detailed.",
+            "Is the painting realistic?": "Yes, the painting is realistic."
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is a pyramid."
+        }
+    },
+    "25blur5": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a pyramid on the moon",
+            "What is the style of the painting?": "The style of the painting is CG art",
+            "Who are the artists involved in creating this painting?": "Nekro, Pascal Blanche, Syd Mead, Greg Rutkowski, Sachin Teng, Victo Ngai, Simon Stalenhag, Chris Voy, and Tsutomu Nihei are the artists involved in creating this painting",
+            "What software did the artists use to create this painting?": "The artists used Maya and Octane Render to create this painting.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is hyper detailed.",
+            "Is the painting realistic?": "Yes, the painting is realistic."
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is a pyramid."
+        }
+    },
+    "27": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is an emo person.",
+            "What is the hairstyle of the subject?": "The hairstyle is a short, dark brown pixie cut.",
+            "What color are the eyes of the subject?": "The eyes are large and black.",
+            "What is the shape of the face of the subject?": "The face is slightly rounded.",
+            "What is the shape of the chin of the subject?": "The chin is pointed.",
+            "What is the shape of the lips of the subject?": "The lips are thin.",
+            "What is the color of the top the subject is wearing?": "The subject is wearing a black tank top.",
+            "What is the color of the jacket the subject is wearing?": "The subject is wearing a black leather jacket.",
+            "What is the length of the skirt the subject is wearing?": "The skirt is knee-length.",
+            "Who are the artists who created this digital art illustration?": "Beeple, Ross Tran, and Sagi Haviv created this digital art illustration."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a young woman with dark hair, wearing a black outfit and makeup."
+        }
+    },
+    "27blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is an emo person.",
+            "What is the hairstyle of the subject?": "The hairstyle is a short, dark brown pixie cut.",
+            "What color are the eyes of the subject?": "The eyes are large and black.",
+            "What is the shape of the face of the subject?": "The face is slightly rounded.",
+            "What is the shape of the chin of the subject?": "The chin is pointed.",
+            "What is the shape of the lips of the subject?": "The lips are thin.",
+            "What is the color of the top the subject is wearing?": "The subject is wearing a black tank top.",
+            "What is the color of the jacket the subject is wearing?": "The subject is wearing a black leather jacket.",
+            "What is the length of the skirt the subject is wearing?": "The skirt is knee-length.",
+            "Who are the artists who created this digital art illustration?": "Beeple, Ross Tran, and Sagi Haviv created this digital art illustration."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a young woman with dark hair, wearing a black outfit and makeup."
+        }
+    },
+    "28": {
+        "qa_pairs": {
+            "What is the object?": "The object is a fairy dancing.",
+            "What is the background color?": "The background is a rich, flowy color.",
+            "What type of painting is it?": "It is an oil painting over a textured canvas.",
+            "Who is the painter?": "The painter is an epic fantasy artist.",
+            "What is the mood of the painting?": "The mood of the painting is very colorful and ornate.",
+            "What is the scale of the painting?": "The scale of the painting is very detailed and volumetric.",
+            "What is the lighting like in the painting?": "The lighting is very fine art and hyper realistic.",
+            "What is the atmosphere of the painting?": "The atmosphere of the painting is misty and fractal.",
+            "What is the subject of the painting?": "The subject of the painting is a buxom brown fairy dancing in a cave made of skulls.",
+            "What is the theme of the painting?": "The theme of the painting is epic fantasy.",
+            "What is the style of the painting?": "The style of the painting is renaissance.",
+            "What is the medium of the painting?": "The medium of the painting is oil over canvas.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is very fine and intricate.",
+            "What is the mood of the fairy in the painting?": "The mood of the fairy in the painting is calm and melting.",
+            "What is the fairy holding in her hand?": "The fairy is holding a round moon.",
+            "What is the fairy wearing?": "The fairy is wearing a flowy, ornate dress with intricate scales.",
+            "What is the background of the painting?": "The background of the painting is a rich, flowy color with fine art details.",
+            "What is the size of the painting?": "The size of the painting is very large and epic.",
+            "What is the composition of the painting?": "The composition of the painting is very balanced and symmetrical.",
+            "What is the focal point of the painting?": "The focal point of the painting is the fairy's face and hands."
+        },
+        "answers_blip": {
+            "What is the object?": "There is no object in the picture."
+        }
+    },
+    "28blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a fairy dancing.",
+            "What is the background color?": "The background is a rich, flowy color.",
+            "What type of painting is it?": "It is an oil painting over a textured canvas.",
+            "Who is the painter?": "The painter is an epic fantasy artist.",
+            "What is the mood of the painting?": "The mood of the painting is very colorful and ornate.",
+            "What is the scale of the painting?": "The scale of the painting is very detailed and volumetric.",
+            "What is the lighting like in the painting?": "The lighting is very fine art and hyper realistic.",
+            "What is the atmosphere of the painting?": "The atmosphere of the painting is misty and fractal.",
+            "What is the subject of the painting?": "The subject of the painting is a buxom brown fairy dancing in a cave made of skulls.",
+            "What is the theme of the painting?": "The theme of the painting is epic fantasy.",
+            "What is the style of the painting?": "The style of the painting is renaissance.",
+            "What is the medium of the painting?": "The medium of the painting is oil over canvas.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is very fine and intricate.",
+            "What is the mood of the fairy in the painting?": "The mood of the fairy in the painting is calm and melting.",
+            "What is the fairy holding in her hand?": "The fairy is holding a round moon.",
+            "What is the fairy wearing?": "The fairy is wearing a flowy, ornate dress with intricate scales.",
+            "What is the background of the painting?": "The background of the painting is a rich, flowy color with fine art details.",
+            "What is the size of the painting?": "The size of the painting is very large and epic.",
+            "What is the composition of the painting?": "The composition of the painting is very balanced and symmetrical.",
+            "What is the focal point of the painting?": "The focal point of the painting is the fairy's face and hands."
+        },
+        "answers_blip": {
+            "What is the object?": "There is no object in the picture."
+        }
+    },
+    "29": {
+        "qa_pairs": {
+            "What is the object?": "The object is an airbrush painting of January 6 insurrection.",
+            "Who is the painter?": "Destiny Womack is the painter.",
+            "What is the style of painting?": "It is an airbrush painting.",
+            "What is the subject of the painting?": "The subject of the painting is January 6 insurrection.",
+            "What is the mood of the painting?": "The mood of the painting is tense and dramatic."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a painting of a battle scene."
+        }
+    },
+    "29blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is an airbrush painting of January 6 insurrection.",
+            "Who is the painter?": "Destiny Womack is the painter.",
+            "What is the style of painting?": "It is an airbrush painting.",
+            "What is the subject of the painting?": "The subject of the painting is January 6 insurrection.",
+            "What is the mood of the painting?": "The mood of the painting is tense and dramatic."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a painting of a battle scene."
+        }
+    },
+    "30": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a rooster chicken.",
+            "What is the style of the artwork?": "The style of the artwork is bright and high quality.",
+            "Who is the artist of the artwork?": "Jose Daniel Cabrera Pena and Greg Rutkowski are the artists.",
+            "What is the concept of the artwork?": "The concept of the artwork is artstation.",
+            "What is the game or project associated with the artwork?": "The game or project associated with the artwork is Hearthstone card game."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a blue rooster."
+        }
+    },
+    "30blur5": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a rooster chicken.",
+            "What is the style of the artwork?": "The style of the artwork is bright and high quality.",
+            "Who is the artist of the artwork?": "Jose Daniel Cabrera Pena and Greg Rutkowski are the artists.",
+            "What is the concept of the artwork?": "The concept of the artwork is artstation.",
+            "What is the game or project associated with the artwork?": "The game or project associated with the artwork is Hearthstone card game."
+        },
+        "answers_blip": {
+            "What is the subject of the artwork?": "The subject of the artwork is a blue rooster."
+        }
+    },
+    "31": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne Johnson and Mr. Bean, Rowan Atkinson.",
+            "What is the style of the painting?": "The painting is in the style of Rembrandt.",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas.",
+            "What is the technique used in the painting?": "The technique used in the painting is wet-on-wet.",
+            "What is the level of realism in the painting?": "The level of realism in the painting is highly realistic.",
+            "What is the lighting style in the painting?": "The lighting style in the painting is cinematic.",
+            "What are the textures like in the painting?": "The textures in the painting are intricate.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is ultra detailed."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a man with blue makeup on his face."
+        }
+    },
+    "31blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is Dwayne Johnson and Mr. Bean, Rowan Atkinson.",
+            "What is the style of the painting?": "The painting is in the style of Rembrandt.",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas.",
+            "What is the technique used in the painting?": "The technique used in the painting is wet-on-wet.",
+            "What is the level of realism in the painting?": "The level of realism in the painting is highly realistic.",
+            "What is the lighting style in the painting?": "The lighting style in the painting is cinematic.",
+            "What are the textures like in the painting?": "The textures in the painting are intricate.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is ultra detailed."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a man with blue makeup on his face."
+        }
+    },
+    "34": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is an emo person.",
+            "What is the hairstyle of the subject?": "The hairstyle of the subject is a short, dark brown pixie cut.",
+            "What color are the eyes of the subject?": "The eyes of the subject are large and black.",
+            "What is the shape of the face of the subject?": "The face of the subject is slightly rounded.",
+            "What is the shape of the chin of the subject?": "The chin of the subject is pointed.",
+            "What is the shape of the lips of the subject?": "The lips of the subject are thin.",
+            "What is the color of the top the subject is wearing?": "The subject is wearing a black tank top.",
+            "What is the color of the jacket the subject is wearing?": "The subject is wearing a black leather jacket.",
+            "What is the length of the skirt the subject is wearing?": "The skirt of the subject is knee-length.",
+            "What is the name of the software used to render the image?": "The image was rendered using Unreal Engine.",
+            "Is the image trending on ArtStation?": "Yes, the image is currently trending on ArtStation.",
+            "Was the image rendered using Octane?": "Yes, the image was rendered using Octane."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a young girl with blue eyes."
+        }
+    },
+    "34blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject of the portrait is an emo person.",
+            "What is the hairstyle of the subject?": "The hairstyle of the subject is a short, dark brown pixie cut.",
+            "What color are the eyes of the subject?": "The eyes of the subject are large and black.",
+            "What is the shape of the face of the subject?": "The face of the subject is slightly rounded.",
+            "What is the shape of the chin of the subject?": "The chin of the subject is pointed.",
+            "What is the shape of the lips of the subject?": "The lips of the subject are thin.",
+            "What is the color of the top the subject is wearing?": "The subject is wearing a black tank top.",
+            "What is the color of the jacket the subject is wearing?": "The subject is wearing a black leather jacket.",
+            "What is the length of the skirt the subject is wearing?": "The skirt of the subject is knee-length.",
+            "What is the name of the software used to render the image?": "The image was rendered using Unreal Engine.",
+            "Is the image trending on ArtStation?": "Yes, the image is currently trending on ArtStation.",
+            "Was the image rendered using Octane?": "Yes, the image was rendered using Octane."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a young girl with blue eyes."
+        }
+    },
+    "36": {
+        "qa_pairs": {
+            "What is the object?": "The object is a bird logo.",
+            "What is the color scheme?": "The color scheme is deep purple and gold.",
+            "What is the material of the object?": "The object is made of velvet.",
+            "What is the background color?": "The background is white."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a bird."
+        }
+    },
+    "36blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a bird logo.",
+            "What is the color scheme?": "The color scheme is deep purple and gold.",
+            "What is the material of the object?": "The object is made of velvet.",
+            "What is the background color?": "The background is white."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a bird."
+        }
+    },
+    "38": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is an Asian Valkyrie",
+            "What is the hair color of the subject?": "The subject's hair is long and black",
+            "What is the lighting effect in the portrait?": "The lighting is dynamic",
+            "Who is the artist?": "Artgerm is the artist",
+            "What is the medium used in the portrait?": "The medium used is ray tracing",
+            "What is the atmosphere in the portrait?": "The atmosphere is realistic",
+            "What is the level of detail in the portrait?": "The level of detail is hyperdetailed",
+            "What is the necklace worn by the subject?": "The subject is wearing an Ankh necklace",
+            "What is the level of depth of field in the portrait?": "The level of depth of field is shallow",
+            "What is the level of realism in the portrait?": "The level of realism is high"
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a woman."
+        }
+    },
+    "38blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is an Asian Valkyrie",
+            "What is the hair color of the subject?": "The subject's hair is long and black",
+            "What is the lighting effect in the portrait?": "The lighting is dynamic",
+            "Who is the artist?": "Artgerm is the artist",
+            "What is the medium used in the portrait?": "The medium used is ray tracing",
+            "What is the atmosphere in the portrait?": "The atmosphere is realistic",
+            "What is the level of detail in the portrait?": "The level of detail is hyperdetailed",
+            "What is the necklace worn by the subject?": "The subject is wearing an Ankh necklace",
+            "What is the level of depth of field in the portrait?": "The level of depth of field is shallow",
+            "What is the level of realism in the portrait?": "The level of realism is high"
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a woman."
+        }
+    },
+    "40": {
+        "qa_pairs": {
+            "What is the setting of the story?": "The setting is a museum.",
+            "What are the characters doing?": "Bill and Ted are on an excellent adventure.",
+            "What is the time period of the story?": "The story takes place in the 80s.",
+            "What is the theme of the story?": "The theme is time travel and adventure.",
+            "Who are the main characters?": "Bill and Ted are the main characters.",
+            "What is the plot of the story?": "The plot is about Bill and Ted traveling through time to get their band's music to a festival on time.",
+            "What is the genre of the story?": "The genre is science fiction and comedy.",
+            "What is the tone of the story?": "The tone is humorous and exciting."
+        },
+        "answers_blip": {
+            "What is the setting of the story?": "The setting of the story is an art museum."
+        }
+    },
+    "40blur5": {
+        "qa_pairs": {
+            "What is the setting of the story?": "The setting is a museum.",
+            "What are the characters doing?": "Bill and Ted are on an excellent adventure.",
+            "What is the time period of the story?": "The story takes place in the 80s.",
+            "What is the theme of the story?": "The theme is time travel and adventure.",
+            "Who are the main characters?": "Bill and Ted are the main characters.",
+            "What is the plot of the story?": "The plot is about Bill and Ted traveling through time to get their band's music to a festival on time.",
+            "What is the genre of the story?": "The genre is science fiction and comedy.",
+            "What is the tone of the story?": "The tone is humorous and exciting."
+        },
+        "answers_blip": {
+            "What is the setting of the story?": "The setting of the story is an art museum."
+        }
+    },
+    "43": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is an emo person.",
+            "What is the color of the hair?": "The hair is dark brown and messy.",
+            "What is the shape of the eyes?": "The eyes are large and black.",
+            "What is the facial expression?": "The facial expression is slightly rounded.",
+            "What is the shape of the chin?": "The chin is pointed.",
+            "What is the color of the jacket?": "The jacket is black leather.",
+            "What is the length of the skirt?": "The skirt is knee-length.",
+            "What is the type of necklace worn?": "The necklace is a choker.",
+            "Who are the painters of this portrait?": "Asher Brown Durand and Claude Monet are the painters."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a woman with black hair and white makeup."
+        }
+    },
+    "43blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is an emo person.",
+            "What is the color of the hair?": "The hair is dark brown and messy.",
+            "What is the shape of the eyes?": "The eyes are large and black.",
+            "What is the facial expression?": "The facial expression is slightly rounded.",
+            "What is the shape of the chin?": "The chin is pointed.",
+            "What is the color of the jacket?": "The jacket is black leather.",
+            "What is the length of the skirt?": "The skirt is knee-length.",
+            "What is the type of necklace worn?": "The necklace is a choker.",
+            "Who are the painters of this portrait?": "Asher Brown Durand and Claude Monet are the painters."
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a woman with black hair and white makeup."
+        }
+    },
+    "44": {
+        "qa_pairs": {
+            "What is the creature?": "The creature is a \u2642 (male) \ud83e\udd8a.",
+            "What is the creature's expression?": "The creature is nuzzling.",
+            "What is the background color?": "The background is bluish.",
+            "What is the art style?": "The art style is uwU.",
+            "Who is the artist?": "Chi tong is the artist."
+        },
+        "answers_blip": {
+            "What is the creature?": "The creature is a fox."
+        }
+    },
+    "44blur5": {
+        "qa_pairs": {
+            "What is the creature?": "The creature is a \u2642 (male) \ud83e\udd8a.",
+            "What is the creature's expression?": "The creature is nuzzling.",
+            "What is the background color?": "The background is bluish.",
+            "What is the art style?": "The art style is uwU.",
+            "Who is the artist?": "Chi tong is the artist."
+        },
+        "answers_blip": {
+            "What is the creature?": "The creature is a fox."
+        }
+    },
+    "45": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is a beautiful winged goddess with horns wearing an ornate black robe",
+            "Who is the artist?": "Tom Bagshaw is the artist",
+            "What is the medium of the painting?": "The medium is oil painting",
+            "What is the mood of the painting?": "The mood is dreamy"
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a woman."
+        }
+    },
+    "45blur5": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is a beautiful winged goddess with horns wearing an ornate black robe",
+            "Who is the artist?": "Tom Bagshaw is the artist",
+            "What is the medium of the painting?": "The medium is oil painting",
+            "What is the mood of the painting?": "The mood is dreamy"
+        },
+        "answers_blip": {
+            "What is the subject of the portrait?": "The subject of the portrait is a woman."
+        }
+    },
+    "48": {
+        "qa_pairs": {
+            "What is the object?": "The object is an oil painting of a highland cow and a llama in a meadow at dawn.",
+            "What is the color scheme of the painting?": "The color scheme of the painting is warm and vibrant, with shades of orange, yellow, and red.",
+            "What is the style of the painting?": "The style of the painting is realistic and detailed, with a focus on capturing the textures and details of the animals and the meadow.",
+            "Who is the painter?": "George Stubbs is the painter.",
+            "What is the mood of the painting?": "The mood of the painting is peaceful and serene, with a sense of calm and tranquility.",
+            "What is the size of the painting?": "The size of the painting is medium to large.",
+            "What is the shape of the painting?": "The shape of the painting is rectangular."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a herd of long horned animals standing in a grassy field with trees in the background."
+        }
+    },
+    "48blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is an oil painting of a highland cow and a llama in a meadow at dawn.",
+            "What is the color scheme of the painting?": "The color scheme of the painting is warm and vibrant, with shades of orange, yellow, and red.",
+            "What is the style of the painting?": "The style of the painting is realistic and detailed, with a focus on capturing the textures and details of the animals and the meadow.",
+            "Who is the painter?": "George Stubbs is the painter.",
+            "What is the mood of the painting?": "The mood of the painting is peaceful and serene, with a sense of calm and tranquility.",
+            "What is the size of the painting?": "The size of the painting is medium to large.",
+            "What is the shape of the painting?": "The shape of the painting is rectangular."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a herd of long horned animals standing in a grassy field with trees in the background."
+        }
+    },
+    "51": {
+        "qa_pairs": {
+            "What is the object?": "The object is a cute corgi puppy floating in outer space",
+            "What is the style of illustration?": "It is a hyperrealistic and very lifelike digital illustration",
+            "Who is the artist?": "Greg Rutkowski, Artgerm, Moebius, Ruan Jia, Makoto Shinkai, Simon Stalenhag, and Trending on ArtStation are some of the artists involved in creating this masterpiece",
+            "What is the award-winning illustration?": "It is an award-winning digital illustration",
+            "What is the trending topic on ArtStation?": "The illustration is trending on ArtStation due to its extreme detail and lifelike quality."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a spaceship."
+        }
+    },
+    "51blur5": {
+        "qa_pairs": {
+            "What is the object?": "The object is a cute corgi puppy floating in outer space",
+            "What is the style of illustration?": "It is a hyperrealistic and very lifelike digital illustration",
+            "Who is the artist?": "Greg Rutkowski, Artgerm, Moebius, Ruan Jia, Makoto Shinkai, Simon Stalenhag, and Trending on ArtStation are some of the artists involved in creating this masterpiece",
+            "What is the award-winning illustration?": "It is an award-winning digital illustration",
+            "What is the trending topic on ArtStation?": "The illustration is trending on ArtStation due to its extreme detail and lifelike quality."
+        },
+        "answers_blip": {
+            "What is the object?": "The object is a spaceship."
+        }
+    },
+    "52": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is an emo portrait of a person",
+            "What is the hair color of the subject?": "The hair color of the subject is dark brown",
+            "What is the shape of the face?": "The shape of the face is slightly rounded",
+            "What is the facial feature of the subject?": "The facial feature of the subject is antichrist eyes",
+            "What is the clothing of the subject?": "The clothing of the subject is a black tank top and black leather jacket",
+            "Who is the painter?": "Gino Severini is the painter"
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is a young girl."
+        }
+    },
+    "52blur5": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is an emo portrait of a person",
+            "What is the hair color of the subject?": "The hair color of the subject is dark brown",
+            "What is the shape of the face?": "The shape of the face is slightly rounded",
+            "What is the facial feature of the subject?": "The facial feature of the subject is antichrist eyes",
+            "What is the clothing of the subject?": "The clothing of the subject is a black tank top and black leather jacket",
+            "Who is the painter?": "Gino Severini is the painter"
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is a young girl."
+        }
+    },
+    "53": {
+        "qa_pairs": {
+            "What is the creature?": "The creature is a \u2642 (male) \ud83e\udd8a.",
+            "What is the creature's expression?": "The creature is nuzzling.",
+            "What is the background color?": "The background is bluish.",
+            "What is the art style?": "The art style is uwU.",
+            "Who is the artist?": "Chi tong is the artist."
+        },
+        "answers_blip": {
+            "What is the creature?": "The creature is a blue fox."
+        }
+    },
+    "53blur5": {
+        "qa_pairs": {
+            "What is the creature?": "The creature is a \u2642 (male) \ud83e\udd8a.",
+            "What is the creature's expression?": "The creature is nuzzling.",
+            "What is the background color?": "The background is bluish.",
+            "What is the art style?": "The art style is uwU.",
+            "Who is the artist?": "Chi tong is the artist."
+        },
+        "answers_blip": {
+            "What is the creature?": "The creature is a blue fox."
+        }
+    }
+}
