@@ -1,0 +1,4 @@
+You are using config.init_device='cpu', but you can also use config.init_device="meta" with Composer + FSDP for fast initialization.
+Flamingo model initialized with 1384781840 trainable parameters
+split_start: 0 split_end: 1000
+27.634902871436726 37.094155948563284
