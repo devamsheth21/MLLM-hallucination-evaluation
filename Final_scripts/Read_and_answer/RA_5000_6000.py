@@ -121,7 +121,6 @@ for key, value in final_output.items():
         if 'answers_blip' not in final_blip_output[key]:
             final_blip_output[key]['answers_blip'] = {}
         final_blip_output[key]['answers_blip'][question] = generated_text
-        break
 
     image_data = np.array(image)
     image_BGR = cv2.cvtColor(image_data, cv2.COLOR_RGB2BGR)
@@ -150,7 +149,6 @@ for key, value in final_output.items():
         generated_text = processor.batch_decode(outputs, skip_special_tokens=True)[0].strip()
         # print(generated_text)
         final_blip_output[augment_index]['answers_blip'][question] = generated_text
-        break
     
     # Here we have finished processing 1000 images and their augmentations and put them in final_output
     # Print the updated final_output
