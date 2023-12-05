@@ -1,0 +1,30 @@
+{
+    "1000": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal * * cognitive illusion * * of the key of the universe.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the style of the painting?": "The style of the painting is surrealism.",
+            "What is the mood of the painting?": "The mood of the painting is dreamy and thought-provoking.",
+            "What is the theme of the painting?": "The theme of the painting is the search for the key to the universe.",
+            "What is the symbolism of the painting?": "The symbolism of the painting is the representation of the key to the universe, which is a metaphor for the search for knowledge and understanding."
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is a blue and green checkerboard pattern."
+        }
+    },
+    "1000blur5": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal * * cognitive illusion * * of the key of the universe.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the style of the painting?": "The style of the painting is surrealism.",
+            "What is the mood of the painting?": "The mood of the painting is dreamy and thought-provoking.",
+            "What is the theme of the painting?": "The theme of the painting is the search for the key to the universe.",
+            "What is the symbolism of the painting?": "The symbolism of the painting is the representation of the key to the universe, which is a metaphor for the search for knowledge and understanding."
+        },
+        "answers_blip": {
+            "What is the subject of the painting?": "The subject of the painting is a blue and green checkerboard pattern."
+        }
+    }
+}
