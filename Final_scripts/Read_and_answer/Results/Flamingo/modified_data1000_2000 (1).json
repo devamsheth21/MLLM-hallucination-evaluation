@@ -1,0 +1,1294 @@
+{
+    "1000": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal * * cognitive illusion * * of the key of the universe.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the style of the painting?": "The style of the painting is surrealism.",
+            "What is the mood of the painting?": "The mood of the painting is dreamy and thought-provoking.",
+            "What is the theme of the painting?": "The theme of the painting is the search for the key to the universe.",
+            "What is the symbolism of the painting?": "The symbolism of the painting is the representation of the key to the universe, which is a metaphor for the search for knowledge and understanding."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a man standing on the surface of a planet. The planet has a ring around it. The ring",
+            "Who are the artists?": "<image> The artistsis interpretation of a black hole.<|endofchunk|>",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. The size of the painting is 50 x 70 cm.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis similar to the style of Salvador Dali.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis very similar to the mood of the movie 2001: A Space Odyssey by Stanley Kubrick.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis the creation of the universe.<|endofchunk|>",
+            "What is the symbolism of the painting?": "<image> The symbolism of the paintingis based on the idea that the universe is a hologram.<|endofchunk|>"
+        }
+    },
+    "1000blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal * * cognitive illusion * * of the key of the universe.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the style of the painting?": "The style of the painting is surrealism.",
+            "What is the mood of the painting?": "The mood of the painting is dreamy and thought-provoking.",
+            "What is the theme of the painting?": "The theme of the painting is the search for the key to the universe.",
+            "What is the symbolism of the painting?": "The symbolism of the painting is the representation of the key to the universe, which is a metaphor for the search for knowledge and understanding."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a man standing on the surface of a planet. The planet has a ring around it. The ring",
+            "Who are the artists?": "<image> The artistsis interpretation of a black hole.<|endofchunk|>",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. The size of the painting is 50 x 70 cm.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis similar to the style of Salvador Dali.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis very similar to the mood of the movie 2001: A Space Odyssey by Stanley Kubrick.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis the creation of the universe.<|endofchunk|>",
+            "What is the symbolism of the painting?": "<image> The symbolism of the paintingis based on the idea that the universe is a hologram.<|endofchunk|>"
+        }
+    },
+    "1001": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used.",
+            "What is the resolution of the painting?": "The resolution is 8k.",
+            "What is the rendering engine used in the painting?": "Octane Render was used."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis very similar to the style of the game.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis a recreation of a scene from the movie Blade Runner.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the rendering engine used in the painting?": "<image> The rendering engine used in the paintingis based on the Unreal Engine 4.<|endofchunk|>"
+        }
+    },
+    "1001blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used.",
+            "What is the resolution of the painting?": "The resolution is 8k.",
+            "What is the rendering engine used in the painting?": "Octane Render was used."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis very similar to the style of the game.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis a recreation of a scene from the movie Blade Runner.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the rendering engine used in the painting?": "<image> The rendering engine used in the paintingis based on the Unreal Engine 4.<|endofchunk|>"
+        }
+    },
+    "1002": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis an abandoned factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis reminiscent of the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis a combination of 3D and 2D. The 3D elements were created in 3ds Max and",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080<|endofchunk|>"
+        }
+    },
+    "1002blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis an abandoned factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis reminiscent of the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis a combination of 3D and 2D. The 3D elements were created in 3ds Max and",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080<|endofchunk|>"
+        }
+    },
+    "1003": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal cognitive illusion",
+            "What is the key of the universe?": "The key of the universe is the theme of the painting.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism and surrealism."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a man who is trying to get out of a maze. He is trying to find a way out",
+            "What is the key of the universe?": "<image> The key of the universeis the key to the universe<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis a master of the psychedelic art movement. His work has been exhibited in galleries and museums around",
+            "What is the style of the painting?": "<image> The style of the paintingis a combination of surrealism and science fiction.<|endofchunk|>"
+        }
+    },
+    "1003blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal cognitive illusion",
+            "What is the key of the universe?": "The key of the universe is the theme of the painting.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism and surrealism."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a man who is trying to get out of a maze. He is trying to find a way out",
+            "What is the key of the universe?": "<image> The key of the universeis the key to the universe<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis a master of the psychedelic art movement. His work has been exhibited in galleries and museums around",
+            "What is the style of the painting?": "<image> The style of the paintingis a combination of surrealism and science fiction.<|endofchunk|>"
+        }
+    },
+    "1004": {
+        "qa_pairs": {
+            "What is the subject of the image?": "The subject of the image is the moon.",
+            "What is the style of the image?": "The style of the image is pop art.",
+            "What is the line quality of the image?": "The line quality of the image is soft.",
+            "What is the color scheme of the image?": "The color scheme of the image is bright and colorful."
+        },
+        "answers_flamingo": {
+            "What is the subject of the image?": "<image> The subject of the imageis the word MON. The word MON is in the center of the image. The word MON is in",
+            "What is the style of the image?": "<image> The style of the imageis in the style of the 80s. The image is made in the style of the 80s.",
+            "What is the line quality of the image?": "<image> The line quality of the imageis very good, and the colors are bright and vivid. The image is of the letter M in the",
+            "What is the color scheme of the image?": "<image> The color scheme of the imageis based on the colors of the planet Mon.<|endofchunk|>"
+        }
+    },
+    "1004blur1": {
+        "qa_pairs": {
+            "What is the subject of the image?": "The subject of the image is the moon.",
+            "What is the style of the image?": "The style of the image is pop art.",
+            "What is the line quality of the image?": "The line quality of the image is soft.",
+            "What is the color scheme of the image?": "The color scheme of the image is bright and colorful."
+        },
+        "answers_flamingo": {
+            "What is the subject of the image?": "<image> The subject of the imageis the word MON. The word MON is in the center of the image. The word MON is in",
+            "What is the style of the image?": "<image> The style of the imageis in the style of the 80s. The image is made in the style of the 80s.",
+            "What is the line quality of the image?": "<image> The line quality of the imageis very good, and the colors are bright and vivid. The image is of the letter M in the",
+            "What is the color scheme of the image?": "<image> The color scheme of the imageis based on the colors of the planet Mon.<|endofchunk|>"
+        }
+    },
+    "1005": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the rendering technique used in the painting?": "Volumetric lighting and Vulcan render were used in the painting."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a steampunk laboratory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis steampunk.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis inspired by the steampunk genre. The steampunk is a subgenre of science fiction",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the rendering technique used in the painting?": "<image> The rendering technique used in the paintingis a combination of 3D and 2D.<|endofchunk|>"
+        }
+    },
+    "1005blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the rendering technique used in the painting?": "Volumetric lighting and Vulcan render were used in the painting."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a steampunk laboratory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis steampunk.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis inspired by the steampunk genre. The steampunk is a subgenre of science fiction",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the rendering technique used in the painting?": "<image> The rendering technique used in the paintingis a combination of 3D and 2D.<|endofchunk|>"
+        }
+    },
+    "1006": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal cognitive illusion",
+            "What is the key of the universe?": "The key of the universe is the theme of the painting.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism and surrealism."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic bookcase. The bookcase is made of a futuristic material. The bookcase",
+            "What is the key of the universe?": "<image> The key of the universeis the key to the universe. The key of the universeis the key to the universe. The key",
+            "Who are the artists?": "<image> The artistsis book cover for the science fiction novel by Arthur C. Clarke, 2001: A Space Odyssey.",
+            "What is the style of the painting?": "<image> The style of the paintingis reminiscent of the psychedelic art of the 1960s and 1970s.<|endofchunk|>"
+        }
+    },
+    "1006blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a surreal cognitive illusion",
+            "What is the key of the universe?": "The key of the universe is the theme of the painting.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism and surrealism."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic bookcase. The bookcase is made of a futuristic material. The bookcase",
+            "What is the key of the universe?": "<image> The key of the universeis the key to the universe. The key of the universeis the key to the universe. The key",
+            "Who are the artists?": "<image> The artistsis book cover for the science fiction novel by Arthur C. Clarke, 2001: A Space Odyssey.",
+            "What is the style of the painting?": "<image> The style of the paintingis reminiscent of the psychedelic art of the 1960s and 1970s.<|endofchunk|>"
+        }
+    },
+    "1007": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is a young cute fluffy panda character",
+            "What is the style of the animation?": "The style is similar to Maple Story and Zootopia",
+            "Who are the animators?": "Jessica Rossier, Brian Froud, and Gaston Bussiere",
+            "What is the lighting setup?": "The lighting setup is a portrait studio lighting setup by Jessica Rossier, Brian Froud, and Gaston Bussiere."
+        },
+        "answers_flamingo": {
+            "What is the subject of the portrait?": "<image> The subject of the portraitis a panda.<|endofchunk|>",
+            "What is the style of the animation?": "<image> The style of the animationis very similar to the style of the movie Kung Fu Panda.<|endofchunk|>",
+            "Who are the animators?": "<image> The animatorsis.com Panda 3D Models Collection<|endofchunk|>",
+            "What is the lighting setup?": "<image> The lighting setupis very similar to that of the Panda.<|endofchunk|>"
+        }
+    },
+    "1007blur1": {
+        "qa_pairs": {
+            "What is the subject of the portrait?": "The subject is a young cute fluffy panda character",
+            "What is the style of the animation?": "The style is similar to Maple Story and Zootopia",
+            "Who are the animators?": "Jessica Rossier, Brian Froud, and Gaston Bussiere",
+            "What is the lighting setup?": "The lighting setup is a portrait studio lighting setup by Jessica Rossier, Brian Froud, and Gaston Bussiere."
+        },
+        "answers_flamingo": {
+            "What is the subject of the portrait?": "<image> The subject of the portraitis a panda.<|endofchunk|>",
+            "What is the style of the animation?": "<image> The style of the animationis very similar to the style of the movie Kung Fu Panda.<|endofchunk|>",
+            "Who are the animators?": "<image> The animatorsis.com Panda 3D Models Collection<|endofchunk|>",
+            "What is the lighting setup?": "<image> The lighting setupis very similar to that of the Panda.<|endofchunk|>"
+        }
+    },
+    "1008": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the rendering technique used in the painting?": "Volumetric lighting and Vulcan render were used in the painting."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a space station.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the cyberpunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis a representation of the interior of a space station.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080<|endofchunk|>",
+            "What is the rendering technique used in the painting?": "<image> The rendering technique used in the paintingis a combination of 3D and 2D.<|endofchunk|>"
+        }
+    },
+    "1008blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the rendering technique used in the painting?": "Volumetric lighting and Vulcan render were used in the painting."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a space station.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the cyberpunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis a representation of the interior of a space station.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080<|endofchunk|>",
+            "What is the rendering technique used in the painting?": "<image> The rendering technique used in the paintingis a combination of 3D and 2D.<|endofchunk|>"
+        }
+    },
+    "1010": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is Christian Bale as a 1 8 5 0 s sci-fi soldier.",
+            "What is the lighting condition of the painting?": "The lighting condition is volumetric dark natural light.",
+            "What is the theme of the painting?": "The theme of the painting is dark enlightenment.",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas.",
+            "Who is the painter of the painting?": "Zdzislaw Beksinki, Jack Kirby, Tom Lovell, Alex Malveda, and Greg Staples are the painters."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a character from the video game Dishonored.<|endofchunk|>",
+            "What is the lighting condition of the painting?": "<image> The lighting condition of the paintingis very dark and gloomy. The painting is a portrait of a man with a mask on his face",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a portrait of a man in a diving helmet.<|endofchunk|>",
+            "What is the medium used in the painting?": "<image> The medium used in the paintingis oil on canvas.<|endofchunk|>",
+            "Who is the painter of the painting?": "<image> The painter of the paintingis the painter of the painting. The painter of the paintingis the painter of the painting. The painter"
+        }
+    },
+    "1010blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is Christian Bale as a 1 8 5 0 s sci-fi soldier.",
+            "What is the lighting condition of the painting?": "The lighting condition is volumetric dark natural light.",
+            "What is the theme of the painting?": "The theme of the painting is dark enlightenment.",
+            "What is the medium used in the painting?": "The medium used in the painting is oil on canvas.",
+            "Who is the painter of the painting?": "Zdzislaw Beksinki, Jack Kirby, Tom Lovell, Alex Malveda, and Greg Staples are the painters."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a character from the video game Dishonored.<|endofchunk|>",
+            "What is the lighting condition of the painting?": "<image> The lighting condition of the paintingis very dark and gloomy. The painting is a portrait of a man with a mask on his face",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a portrait of a man in a diving helmet.<|endofchunk|>",
+            "What is the medium used in the painting?": "<image> The medium used in the paintingis oil on canvas.<|endofchunk|>",
+            "Who is the painter of the painting?": "<image> The painter of the paintingis the painter of the painting. The painter of the paintingis the painter of the painting. The painter"
+        }
+    },
+    "1011": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi/cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is an Unreal Engine artist.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of acrylic and oil paints on canvas.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis rendering of a steampunk-style factory.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>"
+        }
+    },
+    "1011blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi/cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is an Unreal Engine artist.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of acrylic and oil paints on canvas.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis rendering of a steampunk-style factory.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>"
+        }
+    },
+    "1012": {
+        "qa_pairs": {
+            "What is the subject of the image?": "The subject is a woman on the moon",
+            "What is the medium used to create the image?": "The medium used is watercolor",
+            "What is the expression on the woman's face?": "The woman is laughing and has funny facial expression",
+            "What is the style of the image?": "The style is pop art",
+            "Who is the artist?": "The artist is a vector cutout artist.",
+            "What is the mood of the image?": "The mood is bright and colorful.",
+            "What is the technique used to create the image?": "The technique used is soft line."
+        },
+        "answers_flamingo": {
+            "What is the subject of the image?": "<image> The subject of the imageis a watercolor painting of a woman with stars on her face.<|endofchunk|>",
+            "What is the medium used to create the image?": "<image> The medium used to create the imageis watercolor.<|endofchunk|>",
+            "What is the expression on the woman's face?": "<image> The expression on the woman's faceis very similar to Marilyn Monroe's.<|endofchunk|>",
+            "What is the style of the image?": "<image> The style of the imageis inspired by the style of the 1950s and 1960s.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis a woman with blue hair and a red lipstick. She is wearing a white shirt and a blue",
+            "What is the mood of the image?": "<image> The mood of the imageis inspired by the music of Billie Holiday.<|endofchunk|>",
+            "What is the technique used to create the image?": "<image> The technique used to create the imageis a combination of watercolour and ink.<|endofchunk|>"
+        }
+    },
+    "1012blur1": {
+        "qa_pairs": {
+            "What is the subject of the image?": "The subject is a woman on the moon",
+            "What is the medium used to create the image?": "The medium used is watercolor",
+            "What is the expression on the woman's face?": "The woman is laughing and has funny facial expression",
+            "What is the style of the image?": "The style is pop art",
+            "Who is the artist?": "The artist is a vector cutout artist.",
+            "What is the mood of the image?": "The mood is bright and colorful.",
+            "What is the technique used to create the image?": "The technique used is soft line."
+        },
+        "answers_flamingo": {
+            "What is the subject of the image?": "<image> The subject of the imageis a watercolor painting of a woman with stars on her face.<|endofchunk|>",
+            "What is the medium used to create the image?": "<image> The medium used to create the imageis watercolor.<|endofchunk|>",
+            "What is the expression on the woman's face?": "<image> The expression on the woman's faceis very similar to Marilyn Monroe's.<|endofchunk|>",
+            "What is the style of the image?": "<image> The style of the imageis inspired by the style of the 1950s and 1960s.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis a woman with blue hair and a red lipstick. She is wearing a white shirt and a blue",
+            "What is the mood of the image?": "<image> The mood of the imageis inspired by the music of Billie Holiday.<|endofchunk|>",
+            "What is the technique used to create the image?": "<image> The technique used to create the imageis a combination of watercolour and ink.<|endofchunk|>"
+        }
+    },
+    "1013": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the lighting effect used in the painting?": "Volumetric lighting is used in the painting.",
+            "Where was the painting created?": "The painting was created on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a futuristic service station.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the game Bioshock Infinite.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on a scene from the film, which is set in a futuristic junkyard.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the lighting effect used in the painting?": "<image> The lighting effect used in the paintingis based on the lighting effect used in the movie.<|endofchunk|>",
+            "Where was the painting created?": "<image> The painting createdis based on a scene from the film.<|endofchunk|>"
+        }
+    },
+    "1013blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the lighting effect used in the painting?": "Volumetric lighting is used in the painting.",
+            "Where was the painting created?": "The painting was created on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a futuristic service station.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the game Bioshock Infinite.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on a scene from the film, which is set in a futuristic junkyard.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the lighting effect used in the painting?": "<image> The lighting effect used in the paintingis based on the lighting effect used in the movie.<|endofchunk|>",
+            "Where was the painting created?": "<image> The painting createdis based on a scene from the film.<|endofchunk|>"
+        }
+    },
+    "1014": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is the silver surfer with dreadlocks.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the theme of the painting?": "The theme of the painting is cognitive illusion.",
+            "What is the mood of the painting?": "The mood of the painting is surreal.",
+            "What is the setting of the painting?": "The setting of the painting is space."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a young black woman with dreadlocks.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis Afrofuturism.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis a self-taught artist who has been painting for over 20 years. Her work has been exhibited",
+            "What is the medium of the painting?": "<image> The medium of the paintingis acrylic on canvas.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a portrait of a woman with dreadlocks.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis a reflection of the mood of the music.<|endofchunk|>",
+            "What is the setting of the painting?": "<image> The setting of the paintingis a starry night sky, with a woman's face in the foreground. The woman's face is"
+        }
+    },
+    "1014blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is the silver surfer with dreadlocks.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism.",
+            "Who are the artists?": "Oleg Shupliak and Jeffrey Smith are the artists.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the theme of the painting?": "The theme of the painting is cognitive illusion.",
+            "What is the mood of the painting?": "The mood of the painting is surreal.",
+            "What is the setting of the painting?": "The setting of the painting is space."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a young black woman with dreadlocks.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis Afrofuturism.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis a self-taught artist who has been painting for over 20 years. Her work has been exhibited",
+            "What is the medium of the painting?": "<image> The medium of the paintingis acrylic on canvas.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a portrait of a woman with dreadlocks.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis a reflection of the mood of the music.<|endofchunk|>",
+            "What is the setting of the painting?": "<image> The setting of the paintingis a starry night sky, with a woman's face in the foreground. The woman's face is"
+        }
+    },
+    "1015": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is the gates of heaven",
+            "What is the style of the artwork?": "The style of the artwork is Arab Art Nouveau architecture",
+            "What is the medium used to create the artwork?": "The medium used to create the artwork is oil on canvas",
+            "Who is the artist?": "Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, Donato Giancola are some of the artists who have created similar artwork.",
+            "Is the artwork trending on ArtStation?": "Yes, the artwork is trending on ArtStation.",
+            "What is the composition of the artwork?": "The composition of the artwork is cinematic.",
+            "What is the lighting like in the artwork?": "The lighting in the artwork is beautiful and hyper detailed.",
+            "What is the level of detail in the artwork?": "The level of detail in the artwork is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis the interior of the Sheikh Lotfollah Mosque in Isfahan, Iran.<|endofchunk|>",
+            "What is the style of the artwork?": "<image> The style of the artworkis inspired by the architecture of the Alhambra in Granada, Spain.<|endofchunk|>",
+            "What is the medium used to create the artwork?": "<image> The medium used to create the artworkis oil on canvas.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis' interpretation of the Alhambra in Granada, Spain.<|endofchunk|>",
+            "Is the artwork trending on ArtStation?": "<image> The artwork trending on ArtStationis a digital painting of a man walking through a mosque in the middle of the night.<|endofchunk|>",
+            "What is the composition of the artwork?": "<image> The composition of the artworkis based on the architecture of the Alhambra in Granada, Spain.<|endofchunk|>",
+            "What is the lighting like in the artwork?": "<image> The lighting like in the artworkis amazing.<|endofchunk|>",
+            "What is the level of detail in the artwork?": "<image> The level of detail in the artworkis incredible.<|endofchunk|>"
+        }
+    },
+    "1015blur1": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is the gates of heaven",
+            "What is the style of the artwork?": "The style of the artwork is Arab Art Nouveau architecture",
+            "What is the medium used to create the artwork?": "The medium used to create the artwork is oil on canvas",
+            "Who is the artist?": "Tim Hildebrandt, Wayne Barlowe, Bruce Pennington, Donato Giancola are some of the artists who have created similar artwork.",
+            "Is the artwork trending on ArtStation?": "Yes, the artwork is trending on ArtStation.",
+            "What is the composition of the artwork?": "The composition of the artwork is cinematic.",
+            "What is the lighting like in the artwork?": "The lighting in the artwork is beautiful and hyper detailed.",
+            "What is the level of detail in the artwork?": "The level of detail in the artwork is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis the interior of the Sheikh Lotfollah Mosque in Isfahan, Iran.<|endofchunk|>",
+            "What is the style of the artwork?": "<image> The style of the artworkis inspired by the architecture of the Alhambra in Granada, Spain.<|endofchunk|>",
+            "What is the medium used to create the artwork?": "<image> The medium used to create the artworkis oil on canvas.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis' interpretation of the Alhambra in Granada, Spain.<|endofchunk|>",
+            "Is the artwork trending on ArtStation?": "<image> The artwork trending on ArtStationis a digital painting of a man walking through a mosque in the middle of the night.<|endofchunk|>",
+            "What is the composition of the artwork?": "<image> The composition of the artworkis based on the architecture of the Alhambra in Granada, Spain.<|endofchunk|>",
+            "What is the lighting like in the artwork?": "<image> The lighting like in the artworkis amazing.<|endofchunk|>",
+            "What is the level of detail in the artwork?": "<image> The level of detail in the artworkis incredible.<|endofchunk|>"
+        }
+    },
+    "1016": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a galactic flower garden.",
+            "What is the style of the artwork?": "The style of the artwork is afrofuturism.",
+            "Who are the artists?": "The artists are Oleg Shupliak, Jeffrey Smith, and Dan Mumford.",
+            "What is the medium of the artwork?": "The medium of the artwork is oil on canvas.",
+            "What is the theme of the artwork?": "The theme of the artwork is cognitive illusion.",
+            "What is the mood of the artwork?": "The mood of the artwork is surreal.",
+            "What is the setting of the artwork?": "The setting of the artwork is a galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis a planet in space. The planet is surrounded by a ring of stars. The planet is surrounded by",
+            "What is the style of the artwork?": "<image> The style of the artworkis called psychedelic art.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis interpretation of a space station orbiting a planet in a distant solar system.<|endofchunk|>",
+            "What is the medium of the artwork?": "<image> The medium of the artworkis a computer generated image of an alien landscape.<|endofchunk|>",
+            "What is the theme of the artwork?": "<image> The theme of the artworkis space exploration.<|endofchunk|>",
+            "What is the mood of the artwork?": "<image> The mood of the artworkis based on the concept of the universe as a living organism.<|endofchunk|>",
+            "What is the setting of the artwork?": "<image> The setting of the artworkis based on the idea of a planet in the outer reaches of our solar system. The planet is a"
+        }
+    },
+    "1016blur1": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a galactic flower garden.",
+            "What is the style of the artwork?": "The style of the artwork is afrofuturism.",
+            "Who are the artists?": "The artists are Oleg Shupliak, Jeffrey Smith, and Dan Mumford.",
+            "What is the medium of the artwork?": "The medium of the artwork is oil on canvas.",
+            "What is the theme of the artwork?": "The theme of the artwork is cognitive illusion.",
+            "What is the mood of the artwork?": "The mood of the artwork is surreal.",
+            "What is the setting of the artwork?": "The setting of the artwork is a galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis a planet in space. The planet is surrounded by a ring of stars. The planet is surrounded by",
+            "What is the style of the artwork?": "<image> The style of the artworkis called psychedelic art.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis interpretation of a space station orbiting a planet in a distant solar system.<|endofchunk|>",
+            "What is the medium of the artwork?": "<image> The medium of the artworkis a computer generated image of an alien landscape.<|endofchunk|>",
+            "What is the theme of the artwork?": "<image> The theme of the artworkis space exploration.<|endofchunk|>",
+            "What is the mood of the artwork?": "<image> The mood of the artworkis based on the concept of the universe as a living organism.<|endofchunk|>",
+            "What is the setting of the artwork?": "<image> The setting of the artworkis based on the idea of a planet in the outer reaches of our solar system. The planet is a"
+        }
+    },
+    "1017": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a cloakroom environment.",
+            "What is the style of painting?": "The style of painting is fantasy.",
+            "What is the lighting technique used?": "The lighting technique used is volumetric lighting.",
+            "Who is the painter?": "Feng Zhu is the painter.",
+            "What is the medium used for painting?": "The medium used for painting is digital.",
+            "What is the resolution of the painting?": "The resolution of the painting is 4K.",
+            "Who is the artist?": "Alejandro Alvarez is the artist."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a character from the game League of Legends.<|endofchunk|>",
+            "What is the style of painting?": "<image> The style of paintingis very similar to the art style of League of Legends.<|endofchunk|>",
+            "What is the lighting technique used?": "<image> The lighting technique usedis similar to the one used in the original Overwatch.<|endofchunk|>",
+            "Who is the painter?": "<image> The painteris art of League of Legends<|endofchunk|>",
+            "What is the medium used for painting?": "<image> The medium used for paintingis a digital painting.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis rendering of the new Overwatch map, Junkertown.<|endofchunk|>"
+        }
+    },
+    "1017blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a cloakroom environment.",
+            "What is the style of painting?": "The style of painting is fantasy.",
+            "What is the lighting technique used?": "The lighting technique used is volumetric lighting.",
+            "Who is the painter?": "Feng Zhu is the painter.",
+            "What is the medium used for painting?": "The medium used for painting is digital.",
+            "What is the resolution of the painting?": "The resolution of the painting is 4K.",
+            "Who is the artist?": "Alejandro Alvarez is the artist."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a character from the game League of Legends.<|endofchunk|>",
+            "What is the style of painting?": "<image> The style of paintingis very similar to the art style of League of Legends.<|endofchunk|>",
+            "What is the lighting technique used?": "<image> The lighting technique usedis similar to the one used in the original Overwatch.<|endofchunk|>",
+            "Who is the painter?": "<image> The painteris art of League of Legends<|endofchunk|>",
+            "What is the medium used for painting?": "<image> The medium used for paintingis a digital painting.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis rendering of the new Overwatch map, Junkertown.<|endofchunk|>"
+        }
+    },
+    "1018": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "How sharp is the painting?": "The painting is super sharp.",
+            "How is the lighting in the painting?": "The lighting in the painting is volumetric."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic city.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis very similar to the style of the film.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis amazing<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on a scene from the movie Blade Runner.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "How sharp is the painting?": "<image> The paintingis based on a scene from the movie Blade Runner.<|endofchunk|>",
+            "How is the lighting in the painting?": "<image> The lighting in the paintingis amazing.<|endofchunk|>"
+        }
+    },
+    "1018blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "How sharp is the painting?": "The painting is super sharp.",
+            "How is the lighting in the painting?": "The lighting in the painting is volumetric."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic city.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis very similar to the style of the film.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis amazing<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on a scene from the movie Blade Runner.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "How sharp is the painting?": "<image> The paintingis based on a scene from the movie Blade Runner.<|endofchunk|>",
+            "How is the lighting in the painting?": "<image> The lighting in the paintingis amazing.<|endofchunk|>"
+        }
+    },
+    "1020": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a black girl in a galactic flower garden.",
+            "What is the style of the painting?": "The style of the painting is a combination of surrealism and afrofuturism.",
+            "Who are the artists?": "The artists are Oleg Shupliak, Jeffrey Smith, and Dan Mumford.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the theme of the painting?": "The theme of the painting is a cognitive illusion of a surreal galactic flower garden.",
+            "What is the mood of the painting?": "The mood of the painting is calming and dreamy.",
+            "What is the symbolism of the painting?": "The symbolism of the painting is the representation of the black girl's journey through space and time, and the beauty and wonder of the galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a black woman with a crown of stars on her head.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis based on the Afrofuturism movement.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis a self-taught painter and illustrator. Her work has been exhibited in galleries and museums around",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. It is a portrait of a woman with a crown of stars. The woman is",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a black woman with a crown on her head. The crown is a symbol of power and authority.",
+            "What is the mood of the painting?": "<image> The mood of the paintingis a reflection of the current state of the world.<|endofchunk|>",
+            "What is the symbolism of the painting?": "<image> The symbolism of the paintingis based on the idea that the black woman is the center of the universe.<|endofchunk|>"
+        }
+    },
+    "1020blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a black girl in a galactic flower garden.",
+            "What is the style of the painting?": "The style of the painting is a combination of surrealism and afrofuturism.",
+            "Who are the artists?": "The artists are Oleg Shupliak, Jeffrey Smith, and Dan Mumford.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the theme of the painting?": "The theme of the painting is a cognitive illusion of a surreal galactic flower garden.",
+            "What is the mood of the painting?": "The mood of the painting is calming and dreamy.",
+            "What is the symbolism of the painting?": "The symbolism of the painting is the representation of the black girl's journey through space and time, and the beauty and wonder of the galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a black woman with a crown of stars on her head.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis based on the Afrofuturism movement.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis a self-taught painter and illustrator. Her work has been exhibited in galleries and museums around",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. It is a portrait of a woman with a crown of stars. The woman is",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a black woman with a crown on her head. The crown is a symbol of power and authority.",
+            "What is the mood of the painting?": "<image> The mood of the paintingis a reflection of the current state of the world.<|endofchunk|>",
+            "What is the symbolism of the painting?": "<image> The symbolism of the paintingis based on the idea that the black woman is the center of the universe.<|endofchunk|>"
+        }
+    },
+    "1021": {
+        "qa_pairs": {
+            "What is the subject of the illustration?": "The subject is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the illustration?": "The style is a mix of manga and sci-fi.",
+            "What is the lighting like in the illustration?": "The lighting is neon and noir.",
+            "What is the level of detail in the illustration?": "The level of detail is intricate.",
+            "What software was used to create the illustration?": "Unreal Engine was used.",
+            "What is the resolution of the illustration?": "The resolution is 8K.",
+            "What is the mood of the illustration?": "The mood is cyberpunk."
+        },
+        "answers_flamingo": {
+            "What is the subject of the illustration?": "<image> The subject of the illustrationis the interior of a futuristic laboratory.<|endofchunk|>",
+            "What is the style of the illustration?": "<image> The style of the illustrationis inspired by the movie Blade Runner.<|endofchunk|>",
+            "What is the lighting like in the illustration?": "<image> The lighting like in the illustrationis very important in the game.<|endofchunk|>",
+            "What is the level of detail in the illustration?": "<image> The level of detail in the illustrationis incredible.<|endofchunk|>",
+            "What software was used to create the illustration?": "<image> The illustrationis of the interior of a futuristic laboratory.<|endofchunk|>",
+            "What is the resolution of the illustration?": "<image> The resolution of the illustrationis 3200x2400 pixels.<|endofchunk|>",
+            "What is the mood of the illustration?": "<image> The mood of the illustrationis created by the use of warm and cool colors.<|endofchunk|>"
+        }
+    },
+    "1021blur1": {
+        "qa_pairs": {
+            "What is the subject of the illustration?": "The subject is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the illustration?": "The style is a mix of manga and sci-fi.",
+            "What is the lighting like in the illustration?": "The lighting is neon and noir.",
+            "What is the level of detail in the illustration?": "The level of detail is intricate.",
+            "What software was used to create the illustration?": "Unreal Engine was used.",
+            "What is the resolution of the illustration?": "The resolution is 8K.",
+            "What is the mood of the illustration?": "The mood is cyberpunk."
+        },
+        "answers_flamingo": {
+            "What is the subject of the illustration?": "<image> The subject of the illustrationis the interior of a futuristic laboratory.<|endofchunk|>",
+            "What is the style of the illustration?": "<image> The style of the illustrationis inspired by the movie Blade Runner.<|endofchunk|>",
+            "What is the lighting like in the illustration?": "<image> The lighting like in the illustrationis very important in the game.<|endofchunk|>",
+            "What is the level of detail in the illustration?": "<image> The level of detail in the illustrationis incredible.<|endofchunk|>",
+            "What software was used to create the illustration?": "<image> The illustrationis of the interior of a futuristic laboratory.<|endofchunk|>",
+            "What is the resolution of the illustration?": "<image> The resolution of the illustrationis 3200x2400 pixels.<|endofchunk|>",
+            "What is the mood of the illustration?": "<image> The mood of the illustrationis created by the use of warm and cool colors.<|endofchunk|>"
+        }
+    },
+    "1022": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is an Unreal Engine artist.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of digital painting and 3D modeling.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis concept of the interior of a space station.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>"
+        }
+    },
+    "1022blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is an Unreal Engine artist.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis very well done.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of digital painting and 3D modeling.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistis concept of the interior of a space station.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>"
+        }
+    },
+    "1023": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a galactic flower garden.",
+            "What is the style of the artwork?": "The style of the artwork is afrofuturism.",
+            "Who are the artists?": "The artists are Oleg Shupliak, Jeffrey Smith, and Dan Mumford.",
+            "What is the medium of the artwork?": "The medium of the artwork is oil on canvas.",
+            "What is the theme of the artwork?": "The theme of the artwork is cognitive illusion.",
+            "What is the mood of the artwork?": "The mood of the artwork is surreal.",
+            "What is the setting of the artwork?": "The setting of the artwork is a galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis a psychedelic vision of a futuristic landscape.<|endofchunk|>",
+            "What is the style of the artwork?": "<image> The style of the artworkis called psychedelic art.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis interpretation of a psychedelic mushroom trip.<|endofchunk|>",
+            "What is the medium of the artwork?": "<image> The medium of the artworkis oil on canvas. The size of the artwork is 30 x 40 inches.<|endofchunk|>",
+            "What is the theme of the artwork?": "<image> The theme of the artworkis a psychedelic vision of a futuristic world.<|endofchunk|>",
+            "What is the mood of the artwork?": "<image> The mood of the artworkis very psychedelic and trippy.<|endofchunk|>",
+            "What is the setting of the artwork?": "<image> The setting of the artworkis a psychedelic landscape with a tree in the center of the image. The tree is surrounded by"
+        }
+    },
+    "1023blur1": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a galactic flower garden.",
+            "What is the style of the artwork?": "The style of the artwork is afrofuturism.",
+            "Who are the artists?": "The artists are Oleg Shupliak, Jeffrey Smith, and Dan Mumford.",
+            "What is the medium of the artwork?": "The medium of the artwork is oil on canvas.",
+            "What is the theme of the artwork?": "The theme of the artwork is cognitive illusion.",
+            "What is the mood of the artwork?": "The mood of the artwork is surreal.",
+            "What is the setting of the artwork?": "The setting of the artwork is a galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis a psychedelic vision of a futuristic landscape.<|endofchunk|>",
+            "What is the style of the artwork?": "<image> The style of the artworkis called psychedelic art.<|endofchunk|>",
+            "Who are the artists?": "<image> The artistsis interpretation of a psychedelic mushroom trip.<|endofchunk|>",
+            "What is the medium of the artwork?": "<image> The medium of the artworkis oil on canvas. The size of the artwork is 30 x 40 inches.<|endofchunk|>",
+            "What is the theme of the artwork?": "<image> The theme of the artworkis a psychedelic vision of a futuristic world.<|endofchunk|>",
+            "What is the mood of the artwork?": "<image> The mood of the artworkis very psychedelic and trippy.<|endofchunk|>",
+            "What is the setting of the artwork?": "<image> The setting of the artworkis a psychedelic landscape with a tree in the center of the image. The tree is surrounded by"
+        }
+    },
+    "1024": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the type of lighting used in the painting?": "The type of lighting used in the painting is volumetric lighting.",
+            "Where was the painting created?": "The painting was created on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of an arcade game room.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the style of the game.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis really well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis amazing<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on a scene from the movie, Ghost in the Shell.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the type of lighting used in the painting?": "<image> The type of lighting used in the paintingis very similar to the lighting used in the film.<|endofchunk|>",
+            "Where was the painting created?": "<image> The painting createdis based on a scene from the movie, Ghost in the Shell.<|endofchunk|>"
+        }
+    },
+    "1024blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the type of lighting used in the painting?": "The type of lighting used in the painting is volumetric lighting.",
+            "Where was the painting created?": "The painting was created on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of an arcade game room.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the style of the game.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis really well done.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis amazing<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on a scene from the movie, Ghost in the Shell.<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the type of lighting used in the painting?": "<image> The type of lighting used in the paintingis very similar to the lighting used in the film.<|endofchunk|>",
+            "Where was the painting created?": "<image> The painting createdis based on a scene from the movie, Ghost in the Shell.<|endofchunk|>"
+        }
+    },
+    "1025": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is an Unreal Engine artist.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis reminiscent of the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of watercolor and digital painting.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistisim of the steampunk world<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>"
+        }
+    },
+    "1025blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is an Unreal Engine artist.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8K."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis reminiscent of the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of watercolor and digital painting.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistisim of the steampunk world<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>"
+        }
+    },
+    "1026": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a galactic flower garden.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism.",
+            "Who are the painters?": "Oleg Shupliak, Jeffrey Smith, and Thomas Kinkade are the painters.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the theme of the painting?": "The theme of the painting is cognitive illusion.",
+            "What is the mood of the painting?": "The mood of the painting is surreal.",
+            "What is the setting of the painting?": "The setting of the painting is a galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a psychedelic vision of a futuristic city.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis psychedelic.<|endofchunk|>",
+            "Who are the painters?": "<image> The paintersisland: Psychedelic Art, Psychedelic Paintings, Psychedelic Art",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. The size of this psychedelic artwork is 24 x 36 inches.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a psychedelic vision of the future.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis psychedelic.<|endofchunk|>",
+            "What is the setting of the painting?": "<image> The setting of the paintingis a psychedelic landscape with a large flower in the center.<|endofchunk|>"
+        }
+    },
+    "1026blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a galactic flower garden.",
+            "What is the style of the painting?": "The style of the painting is afrofuturism.",
+            "Who are the painters?": "Oleg Shupliak, Jeffrey Smith, and Thomas Kinkade are the painters.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas.",
+            "What is the theme of the painting?": "The theme of the painting is cognitive illusion.",
+            "What is the mood of the painting?": "The mood of the painting is surreal.",
+            "What is the setting of the painting?": "The setting of the painting is a galaxy."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a psychedelic vision of a futuristic city.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis psychedelic.<|endofchunk|>",
+            "Who are the painters?": "<image> The paintersisland: Psychedelic Art, Psychedelic Paintings, Psychedelic Art",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. The size of this psychedelic artwork is 24 x 36 inches.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis a psychedelic vision of the future.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis psychedelic.<|endofchunk|>",
+            "What is the setting of the painting?": "<image> The setting of the paintingis a psychedelic landscape with a large flower in the center.<|endofchunk|>"
+        }
+    },
+    "1027": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a galactic flower garden.",
+            "Who are the painters?": "Oleg Shupliak, Jeffrey Smith, Thomas Kinkade, and Wayne Barlowe are the painters.",
+            "What is the style of painting?": "The style of painting is afrofuturism and surrealism.",
+            "What is the theme of the painting?": "The theme of the painting is a cognitive illusion.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas. *Note: The prompts are just examples, you can generate your own prompts based on your interests and preferences."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis an alien landscape. The landscape is made up of a variety of different planets and moons. The",
+            "Who are the painters?": "<image> The paintersisland.com - H. R. Giger<|endofchunk|>",
+            "What is the style of painting?": "<image> The style of paintingis called psychedelic art.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis space exploration.<|endofchunk|>",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas, and the size of the painting is 60 x 80 cm.<|endofchunk|>"
+        }
+    },
+    "1027blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a galactic flower garden.",
+            "Who are the painters?": "Oleg Shupliak, Jeffrey Smith, Thomas Kinkade, and Wayne Barlowe are the painters.",
+            "What is the style of painting?": "The style of painting is afrofuturism and surrealism.",
+            "What is the theme of the painting?": "The theme of the painting is a cognitive illusion.",
+            "What is the medium of the painting?": "The medium of the painting is oil on canvas. *Note: The prompts are just examples, you can generate your own prompts based on your interests and preferences."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis an alien landscape. The landscape is made up of a variety of different planets and moons. The",
+            "Who are the painters?": "<image> The paintersisland.com - H. R. Giger<|endofchunk|>",
+            "What is the style of painting?": "<image> The style of paintingis called psychedelic art.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis space exploration.<|endofchunk|>",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas, and the size of the painting is 60 x 80 cm.<|endofchunk|>"
+        }
+    },
+    "1028": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What type of lighting is used in the painting?": "The lighting used in the painting is neon monitor lighting.",
+            "Who is the painter?": "The painter is an artist who uses Unreal Engine and 8K resolution to create intricate details in their artwork.",
+            "What software did the artist use to create this painting?": "The artist used digital painting software to create this painting.",
+            "What is the mood of the painting?": "The mood of the painting is dark and noir, with a focus on the fusion of sci-fi and noir.",
+            "What is the theme of the painting?": "The theme of the painting is the fusion of sci-fi and noir, with a focus on the small machine shop in a shipping container.",
+            "What is the scale of the painting?": "The scale of the painting is small, as it is depicted in a shipping container.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate and highly detailed, as it is created using Unreal Engine and",
+            "What is the atmosphere of the painting?": "The atmosphere of the painting is dark and moody, with a focus on neon lighting and volumetric lighting."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the control room of a space station.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis steampunk, a subgenre of science fiction or science fantasy that incorporates technology and aesthetic designs",
+            "What type of lighting is used in the painting?": "<image> The paintingis based on the concept art for the game Portal 2.<|endofchunk|>",
+            "Who is the painter?": "<image> The painteris vision of a futuristic office<|endofchunk|>",
+            "What software did the artist use to create this painting?": "<image> The artist use to create this paintingis unknown, but it is a great example of a steampunk interior.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis dark and gloomy, but the interior of the room is very detailed.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis the control room of a space station.<|endofchunk|>",
+            "What is the scale of the painting?": "<image> The scale of the paintingis impressive, but it's the details that really make it stand out.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis oil on canvas.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What is the atmosphere of the painting?": "<image> The atmosphere of the paintingis very similar to the atmosphere of the game.<|endofchunk|>"
+        }
+    },
+    "1028blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What type of lighting is used in the painting?": "The lighting used in the painting is neon monitor lighting.",
+            "Who is the painter?": "The painter is an artist who uses Unreal Engine and 8K resolution to create intricate details in their artwork.",
+            "What software did the artist use to create this painting?": "The artist used digital painting software to create this painting.",
+            "What is the mood of the painting?": "The mood of the painting is dark and noir, with a focus on the fusion of sci-fi and noir.",
+            "What is the theme of the painting?": "The theme of the painting is the fusion of sci-fi and noir, with a focus on the small machine shop in a shipping container.",
+            "What is the scale of the painting?": "The scale of the painting is small, as it is depicted in a shipping container.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate and highly detailed, as it is created using Unreal Engine and",
+            "What is the atmosphere of the painting?": "The atmosphere of the painting is dark and moody, with a focus on neon lighting and volumetric lighting."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the control room of a space station.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis steampunk, a subgenre of science fiction or science fantasy that incorporates technology and aesthetic designs",
+            "What type of lighting is used in the painting?": "<image> The paintingis based on the concept art for the game Portal 2.<|endofchunk|>",
+            "Who is the painter?": "<image> The painteris vision of a futuristic office<|endofchunk|>",
+            "What software did the artist use to create this painting?": "<image> The artist use to create this paintingis unknown, but it is a great example of a steampunk interior.<|endofchunk|>",
+            "What is the mood of the painting?": "<image> The mood of the paintingis dark and gloomy, but the interior of the room is very detailed.<|endofchunk|>",
+            "What is the theme of the painting?": "<image> The theme of the paintingis the control room of a space station.<|endofchunk|>",
+            "What is the scale of the painting?": "<image> The scale of the paintingis impressive, but it's the details that really make it stand out.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis oil on canvas.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "What is the atmosphere of the painting?": "<image> The atmosphere of the paintingis very similar to the atmosphere of the game.<|endofchunk|>"
+        }
+    },
+    "1029": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is unknown.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "Is the painting created using Unreal Engine?": "Yes, the painting is created using Unreal Engine.",
+            "Is the painting displayed on ArtStation?": "Yes, the painting is displayed on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of 3D and 2D.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistisim of concept art<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "Is the painting created using Unreal Engine?": "<image> The painting created using Unreal Engineis<|endofchunk|>",
+            "Is the painting displayed on ArtStation?": "<image> The painting displayed on ArtStationis a digital painting of a futuristic factory.<|endofchunk|>"
+        }
+    },
+    "1029blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi and cyberpunk.",
+            "What is the lighting like in the painting?": "The lighting in the painting is neon and noir.",
+            "What is the medium used to create the painting?": "The medium used to create the painting is digital painting.",
+            "Who is the artist?": "The artist is unknown.",
+            "What is the resolution of the painting?": "The resolution of the painting is 8k.",
+            "What is the level of detail in the painting?": "The level of detail in the painting is intricate.",
+            "Is the painting created using Unreal Engine?": "Yes, the painting is created using Unreal Engine.",
+            "Is the painting displayed on ArtStation?": "Yes, the painting is displayed on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis the interior of a factory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis inspired by the steampunk genre.<|endofchunk|>",
+            "What is the lighting like in the painting?": "<image> The lighting like in the paintingis amazing.<|endofchunk|>",
+            "What is the medium used to create the painting?": "<image> The medium used to create the paintingis a combination of 3D and 2D.<|endofchunk|>",
+            "Who is the artist?": "<image> The artistisim of concept art<|endofchunk|>",
+            "What is the resolution of the painting?": "<image> The resolution of the paintingis 1920x1080.<|endofchunk|>",
+            "What is the level of detail in the painting?": "<image> The level of detail in the paintingis incredible.<|endofchunk|>",
+            "Is the painting created using Unreal Engine?": "<image> The painting created using Unreal Engineis<|endofchunk|>",
+            "Is the painting displayed on ArtStation?": "<image> The painting displayed on ArtStationis a digital painting of a futuristic factory.<|endofchunk|>"
+        }
+    },
+    "1030": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a gnostic goddess",
+            "What is the level of detail in the artwork?": "The level of detail in the artwork is highly detailed",
+            "What type of painting is it?": "It is a digital painting",
+            "Is it a trending artwork on Artstation?": "Yes, it is trending on Artstation",
+            "Who are the artists involved in creating this artwork?": "Artgerm, Greg Rutkowski, and Magali Villeneuve",
+            "What is the focus of the artwork?": "The focus of the artwork is sharp",
+            "What is the style of the artwork?": "The style of the artwork is illustration Please generate 6 to 7 pairs of questions and answers based on the prompt provided."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis a beautiful woman with a crown on her head.<|endofchunk|>",
+            "What is the level of detail in the artwork?": "<image> The level of detail in the artworkis incredible.<|endofchunk|>",
+            "What type of painting is it?": "<image> What type of painting is it?<|endofchunk|>",
+            "Is it a trending artwork on Artstation?": "<image> Is it a trending artwork on Artstation?<|endofchunk|>",
+            "Who are the artists involved in creating this artwork?": "<image> The artists involved in creating this artworkis a member of our community. To see more of their work, visit their portfolio by clicking on their",
+            "What is the focus of the artwork?": "<image> The focus of the artworkis on the face of the ice queen.<|endofchunk|>",
+            "What is the style of the artwork?": "<image> The style of the artworkis very similar to that of the movie, The Neverending Story.<|endofchunk|>"
+        }
+    },
+    "1030blur1": {
+        "qa_pairs": {
+            "What is the subject of the artwork?": "The subject of the artwork is a gnostic goddess",
+            "What is the level of detail in the artwork?": "The level of detail in the artwork is highly detailed",
+            "What type of painting is it?": "It is a digital painting",
+            "Is it a trending artwork on Artstation?": "Yes, it is trending on Artstation",
+            "Who are the artists involved in creating this artwork?": "Artgerm, Greg Rutkowski, and Magali Villeneuve",
+            "What is the focus of the artwork?": "The focus of the artwork is sharp",
+            "What is the style of the artwork?": "The style of the artwork is illustration Please generate 6 to 7 pairs of questions and answers based on the prompt provided."
+        },
+        "answers_flamingo": {
+            "What is the subject of the artwork?": "<image> The subject of the artworkis a beautiful woman with a crown on her head.<|endofchunk|>",
+            "What is the level of detail in the artwork?": "<image> The level of detail in the artworkis incredible.<|endofchunk|>",
+            "What type of painting is it?": "<image> What type of painting is it?<|endofchunk|>",
+            "Is it a trending artwork on Artstation?": "<image> Is it a trending artwork on Artstation?<|endofchunk|>",
+            "Who are the artists involved in creating this artwork?": "<image> The artists involved in creating this artworkis a member of our community. To see more of their work, visit their portfolio by clicking on their",
+            "What is the focus of the artwork?": "<image> The focus of the artworkis on the face of the ice queen.<|endofchunk|>",
+            "What is the style of the artwork?": "<image> The style of the artworkis very similar to that of the movie, The Neverending Story.<|endofchunk|>"
+        }
+    },
+    "1031": {
+        "qa_pairs": {
+            "What is the subject of the illustration?": "The subject of the illustration is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the illustration?": "The style of the illustration is sci-fi and cyberpunk.",
+            "What is the lighting like in the illustration?": "The lighting is neon and noir.",
+            "What software was used to create the illustration?": "Unreal Engine was used to create the illustration.",
+            "What is the resolution of the illustration?": "The resolution of the illustration is 8k.",
+            "What is the level of detail in the illustration?": "The level of detail in the illustration is intricate."
+        },
+        "answers_flamingo": {
+            "What is the subject of the illustration?": "<image> The subject of the illustrationis the interior of an abandoned factory.<|endofchunk|>",
+            "What is the style of the illustration?": "<image> The style of the illustrationis very similar to the style of the game.<|endofchunk|>",
+            "What is the lighting like in the illustration?": "<image> The lighting like in the illustrationis very dark and moody.<|endofchunk|>",
+            "What software was used to create the illustration?": "<image> The illustrationis of the interior of the factory.<|endofchunk|>",
+            "What is the resolution of the illustration?": "<image> The resolution of the illustrationis 1920x1080.<|endofchunk|>",
+            "What is the level of detail in the illustration?": "<image> The level of detail in the illustrationis amazing<|endofchunk|>"
+        }
+    },
+    "1031blur1": {
+        "qa_pairs": {
+            "What is the subject of the illustration?": "The subject of the illustration is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the illustration?": "The style of the illustration is sci-fi and cyberpunk.",
+            "What is the lighting like in the illustration?": "The lighting is neon and noir.",
+            "What software was used to create the illustration?": "Unreal Engine was used to create the illustration.",
+            "What is the resolution of the illustration?": "The resolution of the illustration is 8k.",
+            "What is the level of detail in the illustration?": "The level of detail in the illustration is intricate."
+        },
+        "answers_flamingo": {
+            "What is the subject of the illustration?": "<image> The subject of the illustrationis the interior of an abandoned factory.<|endofchunk|>",
+            "What is the style of the illustration?": "<image> The style of the illustrationis very similar to the style of the game.<|endofchunk|>",
+            "What is the lighting like in the illustration?": "<image> The lighting like in the illustrationis very dark and moody.<|endofchunk|>",
+            "What software was used to create the illustration?": "<image> The illustrationis of the interior of the factory.<|endofchunk|>",
+            "What is the resolution of the illustration?": "<image> The resolution of the illustrationis 1920x1080.<|endofchunk|>",
+            "What is the level of detail in the illustration?": "<image> The level of detail in the illustrationis amazing<|endofchunk|>"
+        }
+    },
+    "1032": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi, cyberpunk, and noir.",
+            "What is the medium of the painting?": "The medium of the painting is digital painting.",
+            "What level of detail is present in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What resolution was used to create the painting?": "The painting was created at 8k resolution.",
+            "What type of lighting is used in the painting?": "Volumetric lighting is used in the painting.",
+            "Where was the painting created?": "The painting was created on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic laboratory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis very similar to the style of the game.<|endofchunk|>",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. The size of the painting is 60 x 80 cm.<|endofchunk|>",
+            "What level of detail is present in the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "What resolution was used to create the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "What type of lighting is used in the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "Where was the painting created?": "<image> The painting createdis based on the concept art for the game.<|endofchunk|>"
+        }
+    },
+    "1032blur1": {
+        "qa_pairs": {
+            "What is the subject of the painting?": "The subject of the painting is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the painting?": "The style of the painting is sci-fi, cyberpunk, and noir.",
+            "What is the medium of the painting?": "The medium of the painting is digital painting.",
+            "What level of detail is present in the painting?": "The level of detail in the painting is intricate.",
+            "What software was used to create the painting?": "Unreal Engine was used to create the painting.",
+            "What resolution was used to create the painting?": "The painting was created at 8k resolution.",
+            "What type of lighting is used in the painting?": "Volumetric lighting is used in the painting.",
+            "Where was the painting created?": "The painting was created on ArtStation."
+        },
+        "answers_flamingo": {
+            "What is the subject of the painting?": "<image> The subject of the paintingis a futuristic laboratory.<|endofchunk|>",
+            "What is the style of the painting?": "<image> The style of the paintingis very similar to the style of the game.<|endofchunk|>",
+            "What is the medium of the painting?": "<image> The medium of the paintingis oil on canvas. The size of the painting is 60 x 80 cm.<|endofchunk|>",
+            "What level of detail is present in the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "What software was used to create the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "What resolution was used to create the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "What type of lighting is used in the painting?": "<image> The paintingis based on the concept art for the game Bioshock Infinite.<|endofchunk|>",
+            "Where was the painting created?": "<image> The painting createdis based on the concept art for the game.<|endofchunk|>"
+        }
+    },
+    "1033": {
+        "qa_pairs": {
+            "What is the animal?": "The animal is a hybrid crossbred chimera of a cat and a sloth.",
+            "What is the art style?": "The art style is photorealistic and highly detailed digital concept art."
+        },
+        "answers_flamingo": {
+            "What is the animal?": "<image> The animalis: The Raccoon Dog (Nyctereutes procyonoides)<|endofchunk|>",
+            "What is the art style?": "<image> The art styleis very similar to the art style of the original movie.<|endofchunk|>"
+        }
+    },
+    "1033blur1": {
+        "qa_pairs": {
+            "What is the animal?": "The animal is a hybrid crossbred chimera of a cat and a sloth.",
+            "What is the art style?": "The art style is photorealistic and highly detailed digital concept art."
+        },
+        "answers_flamingo": {
+            "What is the animal?": "<image> The animalis: The Raccoon Dog (Nyctereutes procyonoides)<|endofchunk|>",
+            "What is the art style?": "<image> The art styleis very similar to the art style of the original movie.<|endofchunk|>"
+        }
+    },
+    "1035": {
+        "qa_pairs": {
+            "What is the object?": "The object is an octopus attacking something.",
+            "What is the background color?": "The background is a dark, Lovecraftian color.",
+            "What type of weapon is used to fight the horror?": "Laser guns are used to fight the horror.",
+            "What is the mood of the artwork?": "The mood is one of melting horror.",
+            "What is the theme of the artwork?": "The theme is the fight against the unknown horrors."
+        },
+        "answers_flamingo": {
+            "What is the object?": "<image> The objectis the octopus.<|endofchunk|>",
+            "What is the background color?": "<image> The background coloris purple and the octopus is black and white.<|endofchunk|>",
+            "What type of weapon is used to fight the horror?": "<image> The horroris in the depths of the ocean. The horroris in the depths of the ocean. The horroris",
+            "What is the mood of the artwork?": "<image> The mood of the artworkis very dark and mysterious. The octopus is very detailed and has a lot of texture to it.",
+            "What is the theme of the artwork?": "<image> The theme of the artworkis the octopus.<|endofchunk|>"
+        }
+    },
+    "1035blur1": {
+        "qa_pairs": {
+            "What is the object?": "The object is an octopus attacking something.",
+            "What is the background color?": "The background is a dark, Lovecraftian color.",
+            "What type of weapon is used to fight the horror?": "Laser guns are used to fight the horror.",
+            "What is the mood of the artwork?": "The mood is one of melting horror.",
+            "What is the theme of the artwork?": "The theme is the fight against the unknown horrors."
+        },
+        "answers_flamingo": {
+            "What is the object?": "<image> The objectis the octopus.<|endofchunk|>",
+            "What is the background color?": "<image> The background coloris purple and the octopus is black and white.<|endofchunk|>",
+            "What type of weapon is used to fight the horror?": "<image> The horroris in the depths of the ocean. The horroris in the depths of the ocean. The horroris",
+            "What is the mood of the artwork?": "<image> The mood of the artworkis very dark and mysterious. The octopus is very detailed and has a lot of texture to it.",
+            "What is the theme of the artwork?": "<image> The theme of the artworkis the octopus.<|endofchunk|>"
+        }
+    },
+    "1036": {
+        "qa_pairs": {
+            "What is the subject of the photo?": "The subject is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the photo?": "The style is cyberpunk.",
+            "What is the lighting like in the photo?": "The lighting is neon.",
+            "What is the camera used to take the photo?": "The camera used is a digital camera.",
+            "What is the level of detail in the photo?": "The level of detail is intricate.",
+            "What software was used to create the photo?": "Unreal Engine was used.",
+            "What resolution is the photo?": "The photo is 8k."
+        },
+        "answers_flamingo": {
+            "What is the subject of the photo?": "<image> The subject of the photois the interior of a space station.<|endofchunk|>",
+            "What is the style of the photo?": "<image> The style of the photois reminiscent of the cyberpunk genre.<|endofchunk|>",
+            "What is the lighting like in the photo?": "<image> The lighting like in the photois the most important part of the concept art.<|endofchunk|>",
+            "What is the camera used to take the photo?": "<image> The camera used to take the photois located in the center of the room.<|endofchunk|>",
+            "What is the level of detail in the photo?": "<image> The level of detail in the photois incredible.<|endofchunk|>",
+            "What software was used to create the photo?": "<image> The photois a computer generated image of the interior of a space station.<|endofchunk|>",
+            "What resolution is the photo?": "<image> The photois a computer generated image of the interior of a space station.<|endofchunk|>"
+        }
+    },
+    "1036blur1": {
+        "qa_pairs": {
+            "What is the subject of the photo?": "The subject is a small sci-fi machine shop in a shipping container.",
+            "What is the style of the photo?": "The style is cyberpunk.",
+            "What is the lighting like in the photo?": "The lighting is neon.",
+            "What is the camera used to take the photo?": "The camera used is a digital camera.",
+            "What is the level of detail in the photo?": "The level of detail is intricate.",
+            "What software was used to create the photo?": "Unreal Engine was used.",
+            "What resolution is the photo?": "The photo is 8k."
+        },
+        "answers_flamingo": {
+            "What is the subject of the photo?": "<image> The subject of the photois the interior of a space station.<|endofchunk|>",
+            "What is the style of the photo?": "<image> The style of the photois reminiscent of the cyberpunk genre.<|endofchunk|>",
+            "What is the lighting like in the photo?": "<image> The lighting like in the photois the most important part of the concept art.<|endofchunk|>",
+            "What is the camera used to take the photo?": "<image> The camera used to take the photois located in the center of the room.<|endofchunk|>",
+            "What is the level of detail in the photo?": "<image> The level of detail in the photois incredible.<|endofchunk|>",
+            "What software was used to create the photo?": "<image> The photois a computer generated image of the interior of a space station.<|endofchunk|>",
+            "What resolution is the photo?": "<image> The photois a computer generated image of the interior of a space station.<|endofchunk|>"
+        }
+    }
+}
